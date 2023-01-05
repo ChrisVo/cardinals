@@ -1,0 +1,25 @@
+name: "Create new JSON file"
+
+# Run every Friday at 12:00 UTC
+on:
+  schedule:
+    - cron: "0 12 * * 5"
+
+jobs:
+  create-new-json-file:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Create new JSON file
+        run: |
+          python cardinal.py > cardinal.json
+      - name: Upload json file to Github releases
+        uses: svenstaro/upload-release-action@v2
+        with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          file: cardinal.json
+          tag: latest
+          overwrite: true
+          file_glob: true
+
+# Path: .github/workflows/main.yml
