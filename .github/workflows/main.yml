@@ -1,9 +1,11 @@
 name: "Create new JSON file"
 
-# Run every Friday at 12:00 UTC
+# Run every Friday at 12 AM Pacific Time
+# Also add a workflow dispatch
 on:
   schedule:
-    - cron: "0 12 * * 5"
+    - cron: '0 0 * * 5'
+  workflow_dispatch:
 
 jobs:
   create-new-json-file:
