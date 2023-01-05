@@ -37,4 +37,4 @@ An example of an JSON object:
 
 ---
 ## Sources
-[The data is scraped from the list of cardinals Wikipedia page](https://en.wikipedia.org/wiki/List_of_current_cardinals)
+[The data is scraped from the "list of cardinals" Wikipedia page](https://en.wikipedia.org/wiki/List_of_current_cardinals)
