@@ -66,7 +66,7 @@ class Cardinals:
                 ]
             )
             cardinals.append(cardinal)
-        return json.dumps({"cardinals": cardinals})
+        return json.dumps({"Cardinals": cardinals})
 
 
 if __name__ == "__main__":
