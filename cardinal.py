@@ -6,9 +6,6 @@ import bs4
 
 
 class Cardinals:
-    # def __init__(self):
-    #     self.cardinals = self.get_cardinals()
-
     def get_cardinals(self):
         headers = {
             "accept": 'text/html; charset=utf-8; profile="https://www.mediawiki.org/wiki/Specs/HTML/2.1.0"',
