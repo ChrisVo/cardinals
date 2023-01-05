@@ -1,9 +1,12 @@
 # Catholic Cardinals in JSON
-List of Roman Catholic Cardinals in `json` format
+List of Roman Catholic Cardinals in `json` format.
+
+To download the latest list of Cardinals, please go to the [releases page](https://github.com/ChrisVo/cardinals/releases), and download the `cardinal.json` file.
+
+---
 
 ## Requirements
 - Python3+
-
 
 ## Usage
 
