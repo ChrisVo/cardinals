@@ -70,53 +70,6 @@ class Cardinals:
                 ]
             )
             cardinals.append(cardinal)
-
-        # # Create a list of dictionaries
-        # cardinals = []
-        # for row in rows:
-        #     cells = row.find_all("td")
-        #     if len(cells) == 0:
-        #         continue
-
-        #     regex = r"([0-9]{4})"
-
-        #     cardinal = {
-        #         "Rank": cells[0].text,
-        #         "Name": cells[1].text,
-        #         "Country": cells[2].text,
-        #         "DateOfBirth": cells[3].text.split("(")[0],
-        #         "Order": cells[4].text,
-        #         "ConsistoryDate": "".join(
-        #             [
-        #                 re.split(regex, cells[5].text)[0],
-        #                 re.split(regex, cells[5].text)[1],
-        #             ]
-        #         ),
-        #         "CreatedCardinalBy": re.split(regex, cells[5].text)[-1],
-        #         "Office": cells[6].text,
-        #     }
-
-        #     # If name has asterisk, mark ineligible for conclave
-        #     if "*" in cardinal["Name"]:
-        #         cardinal["PapalConclaveEligible"] = False
-        #     else:
-        #         cardinal["PapalConclaveEligible"] = True
-        #     # If Office has anything but alphanumeric characters, remove it
-        #     if not cardinal["Office"].isalnum():
-        #         cardinal["Office"] = cardinal["Office"].split("[")[0]
-        #     # If name has an asterisk, remove it
-        #     if "*" in cardinal["Name"]:
-        #         cardinal["Name"] = cardinal["Name"].replace("*", "")
-        #     # If CreatedCardinalBy has brackets and text, remove it, also decode unicode
-        #     if "[" in cardinal["CreatedCardinalBy"]:
-        #         cardinal["CreatedCardinalBy"] = (
-        #             re.split("(\[.*?\])", cardinal["CreatedCardinalBy"])[-1]
-        #             .encode("utf-8")
-        #             .decode("ascii", "ignore")
-        #         )
-
-        #     cardinals.append(cardinal)
-
         return json.dumps({"cardinals": cardinals})
 
 
