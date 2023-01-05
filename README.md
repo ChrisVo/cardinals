@@ -16,7 +16,7 @@ An example of an JSON object:
       "Office": "Prefect emeritus of the Congregation for Bishops",
       "PapalConclaveEligible": false,
       "CreatedCardinalBy": "Pope John Paul II"
-    },
+    }
 ```
 
 ---
