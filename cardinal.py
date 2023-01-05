@@ -6,6 +6,9 @@ import bs4
 
 class Cardinals:
     def get_cardinals(self):
+        """
+        Get a list of cardinals from Wikipedia
+        """
         headers = {
             "accept": 'text/html; charset=utf-8; profile="https://www.mediawiki.org/wiki/Specs/HTML/2.1.0"',
         }
