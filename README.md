@@ -14,7 +14,7 @@ List of Roman Catholic Cardinals in `json` format
 
 3. Run script
 
-    `python cardinal`
+    `python cardinal.py`
 
 ---
 ## Sources
