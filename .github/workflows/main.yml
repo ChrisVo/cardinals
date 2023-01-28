@@ -20,11 +20,12 @@ jobs:
           python-version: 3.9
       - name: Install dependencies
         run: |
+          apt install jq -y
           python -m pip install --upgrade pip
           pip install -r requirements.txt
       - name: Create new JSON file
         run: |
-          python cardinal.py > cardinal.json
+          python cardinal.py|jq > cardinal.json
       - name: Upload json file to Github releases
         uses: svenstaro/upload-release-action@v2
         with:
