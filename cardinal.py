@@ -2,6 +2,7 @@ import re
 import requests
 import json
 import bs4
+import wikipedia
 
 
 class Cardinals:
@@ -57,6 +58,14 @@ class Cardinals:
             # If name has an asterisk, remove it
             if "*" in cardinal["Name"]:
                 cardinal["Name"] = cardinal["Name"].replace("*", "")
+            # Search for image
+            # If image is found, add it to the dictionary
+            try:
+                cardinal["Image"] = wikipedia.page(cardinal["Name"]).images[1]
+            except wikipedia.exceptions.DisambiguationError:
+                cardinal["Image"] = ""
+            except wikipedia.exceptions.PageError:
+                cardinal["Image"] = ""
             # Remove (age) from DateOfBirth
             cardinal["Born"] = cardinal["Born"].split("(")[0]
             cardinal["CreatedCardinalBy"] = "Pope " + re.sub(
@@ -68,6 +77,7 @@ class Cardinals:
                     re.split(regex, cardinal["Consistory"])[1],
                 ]
             )
+
             cardinals.append(cardinal)
         return json.dumps({"Cardinals": cardinals})
 
