@@ -2,3 +2,5 @@
 venv/
 cardinals-previous.json
 cardinals-new.json
+*.pyc
+__pycache__/

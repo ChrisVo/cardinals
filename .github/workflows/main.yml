@@ -39,6 +39,14 @@ jobs:
         run: |
           python cardinal.py > cardinals-new.json
 
+      - name: Export to multiple formats
+        run: |
+          python export_formats.py
+
+      - name: Update README with cardinal list
+        run: |
+          python update_readme.py
+
       - name: Detect changes and generate changelog
         id: detect-changes
         run: |
@@ -154,7 +162,7 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add cardinals.json CHANGELOG.md
+          git add cardinals.json cardinals.csv cardinals.xml CHANGELOG.md README.md
           git diff --staged --quiet || git commit -m "Update cardinals data - ${{ steps.detect-changes.outputs.change_summary }}"
           git push
 
@@ -170,8 +178,15 @@ jobs:
             ${{ steps.detect-changes.outputs.change_summary }}
 
             See [CHANGELOG.md](https://github.com/${{ github.repository }}/blob/main/CHANGELOG.md) for details.
+
+            Available formats:
+            - JSON: cardinals.json
+            - CSV: cardinals.csv
+            - XML: cardinals.xml
           files: |
             cardinals.json
+            cardinals.csv
+            cardinals.xml
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

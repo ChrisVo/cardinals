@@ -1,0 +1,2698 @@
+<?xml version="1.0" ?>
+<Cardinals total="245">
+  <Cardinal>
+    <Rank>1</Rank>
+    <Name>Giovanni Battista Re</Name>
+    <Country>Italy</Country>
+    <Born>30 January 1934</Born>
+    <Order>CB</Order>
+    <Consistory>21 February 2001</Consistory>
+    <Office>Prefect emeritus of the Congregation for Bishops (Dean)</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>2</Rank>
+    <Name>Leonardo Sandri</Name>
+    <Country>Argentina</Country>
+    <Born>18 November 1943</Born>
+    <Order>CB</Order>
+    <Consistory>24 November 2007</Consistory>
+    <Office>Prefect emeritus of the Dicastery for the Eastern Churches (Vice Dean)</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>3</Rank>
+    <Name>Francis Arinze</Name>
+    <Country>Nigeria</Country>
+    <Born>1 November 1932</Born>
+    <Order>CB</Order>
+    <Consistory>25 May 1985</Consistory>
+    <Office>Prefect emeritus of the Congregation for Divine Worship and the Discipline of the Sacraments</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>4</Rank>
+    <Name>Tarcisio Bertone SDB</Name>
+    <Country>Italy</Country>
+    <Born>2 December 1934</Born>
+    <Order>CB</Order>
+    <Consistory>21 October 2003</Consistory>
+    <Office>Secretary of State emeritus of His Holiness and Camerlengo emeritus of the Holy Roman Church</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>5</Rank>
+    <Name>José Saraiva Martins CMF</Name>
+    <Country>Portugal</Country>
+    <Born>6 January 1932</Born>
+    <Order>CB</Order>
+    <Consistory>21 February 2001</Consistory>
+    <Office>Prefect emeritus of the Congregation for the Causes of Saints</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>6</Rank>
+    <Name>Pietro Parolin</Name>
+    <Country>Italy</Country>
+    <Born>17 January 1955</Born>
+    <Order>CB</Order>
+    <Consistory>22 February 2014</Consistory>
+    <Office>Secretary of State of His Holiness</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>7</Rank>
+    <Name>Marc Ouellet PSS</Name>
+    <Country>Canada</Country>
+    <Born>8 June 1944</Born>
+    <Order>CB</Order>
+    <Consistory>21 October 2003</Consistory>
+    <Office>Prefect emeritus of the Dicastery for Bishops</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>8</Rank>
+    <Name>Fernando Filoni</Name>
+    <Country>Italy</Country>
+    <Born>15 April 1946</Born>
+    <Order>CB</Order>
+    <Consistory>18 February 2012</Consistory>
+    <Office>Grand Master of the Order of the Holy Sepulchre</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>9</Rank>
+    <Name>Beniamino Stella</Name>
+    <Country>Italy</Country>
+    <Born>18 August 1941</Born>
+    <Order>CB</Order>
+    <Consistory>22 February 2014</Consistory>
+    <Office>Prefect emeritus of the Congregation for the Clergy</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>10</Rank>
+    <Name>Luis Antonio Tagle</Name>
+    <Country>Philippines</Country>
+    <Born>21 June 1957</Born>
+    <Order>CB</Order>
+    <Consistory>24 November 2012</Consistory>
+    <Office>Pro-Prefect of the Dicastery for Evangelization</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>11</Rank>
+    <Name>Bechara Boutros al-Rahi OMM</Name>
+    <Country>Lebanon</Country>
+    <Born>25 February 1940</Born>
+    <Order>CB</Order>
+    <Consistory>24 November 2012</Consistory>
+    <Office>Patriarch of Antioch(Maronite Church)</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>12</Rank>
+    <Name>Louis Raphaël I Sako</Name>
+    <Country>Iraq</Country>
+    <Born>4 July 1948</Born>
+    <Order>CB</Order>
+    <Consistory>28 June 2018</Consistory>
+    <Office>Patriarch of Baghdad(Chaldean Church)</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>13</Rank>
+    <Name>Michael Michai Kitbunchu</Name>
+    <Country>Thailand</Country>
+    <Born>25 January 1929</Born>
+    <Order>CP</Order>
+    <Consistory>2 February 1983</Consistory>
+    <Office>Archbishop emeritus of Bangkok</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>14</Rank>
+    <Name>Paul Poupard</Name>
+    <Country>France</Country>
+    <Born>30 August 1930</Born>
+    <Order>CP</Order>
+    <Consistory>25 May 1985</Consistory>
+    <Office>President emeritus of the Pontifical Councils for Culture and for Interreligious Dialogue</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>15</Rank>
+    <Name>Friedrich Wetter</Name>
+    <Country>Germany</Country>
+    <Born>20 February 1928</Born>
+    <Order>CP</Order>
+    <Consistory>25 May 1985</Consistory>
+    <Office>Archbishop emeritus of Munich and Freising</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>16</Rank>
+    <Name>Nicolás de Jesús López Rodríguez</Name>
+    <Country>Dominican Republic</Country>
+    <Born>31 October 1936</Born>
+    <Order>CP</Order>
+    <Consistory>28 June 1991</Consistory>
+    <Office>Archbishop emeritus of Santo Domingo</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>17</Rank>
+    <Name>Roger Mahony</Name>
+    <Country>United States</Country>
+    <Born>27 February 1936</Born>
+    <Order>CP</Order>
+    <Consistory>28 June 1991</Consistory>
+    <Office>Archbishop emeritus of Los Angeles</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>18</Rank>
+    <Name>Camillo Ruini</Name>
+    <Country>Italy</Country>
+    <Born>19 February 1931</Born>
+    <Order>CP</Order>
+    <Consistory>28 June 1991</Consistory>
+    <Office>Vicar General emeritus for Rome and Archpriest emeritus of the Papal Basilica of Saint John Lateran</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>19</Rank>
+    <Name>Julius Darmaatmadja SJ</Name>
+    <Country>Indonesia</Country>
+    <Born>20 December 1934</Born>
+    <Order>CP</Order>
+    <Consistory>26 November 1994</Consistory>
+    <Office>Archbishop emeritus of Jakarta</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>20</Rank>
+    <Name>Emmanuel Wamala</Name>
+    <Country>Uganda</Country>
+    <Born>15 December 1926</Born>
+    <Order>CP</Order>
+    <Consistory>26 November 1994</Consistory>
+    <Office>Archbishop emeritus of Kampala</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>21</Rank>
+    <Name>Adam Maida</Name>
+    <Country>United States</Country>
+    <Born>18 March 1930</Born>
+    <Order>CP</Order>
+    <Consistory>26 November 1994</Consistory>
+    <Office>Archbishop emeritus of Detroit</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>22</Rank>
+    <Name>Vinko Puljić</Name>
+    <Country>Bosnia and Herzegovina</Country>
+    <Born>8 September 1945</Born>
+    <Order>CP</Order>
+    <Consistory>26 November 1994</Consistory>
+    <Office>Archbishop emeritus of Vrhbosna</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>23</Rank>
+    <Name>Juan Sandoval Íñiguez</Name>
+    <Country>Mexico</Country>
+    <Born>28 March 1933</Born>
+    <Order>CP</Order>
+    <Consistory>26 November 1994</Consistory>
+    <Office>Archbishop emeritus of Guadalajara</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>24</Rank>
+    <Name>James Stafford</Name>
+    <Country>United States</Country>
+    <Born>26 July 1932</Born>
+    <Order>CP</Order>
+    <Consistory>21 February 1998</Consistory>
+    <Office>Major Penitentiary emeritus</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>25</Rank>
+    <Name>Salvatore De Giorgi</Name>
+    <Country>Italy</Country>
+    <Born>6 September 1930</Born>
+    <Order>CP</Order>
+    <Consistory>21 February 1998</Consistory>
+    <Office>Archbishop emeritus of Palermo</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>26</Rank>
+    <Name>Antonio María Rouco Varela</Name>
+    <Country>Spain</Country>
+    <Born>20 August 1936</Born>
+    <Order>CP</Order>
+    <Consistory>21 February 1998</Consistory>
+    <Office>Archbishop emeritus of Madrid</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>27</Rank>
+    <Name>Polycarp Pengo</Name>
+    <Country>Tanzania</Country>
+    <Born>5 August 1944</Born>
+    <Order>CP</Order>
+    <Consistory>21 February 1998</Consistory>
+    <Office>Archbishop emeritus of Dar-es-Salaam</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>28</Rank>
+    <Name>Christoph Schönborn OP</Name>
+    <Country>Austria[d]</Country>
+    <Born>22 January 1945</Born>
+    <Order>CP</Order>
+    <Consistory>21 February 1998</Consistory>
+    <Office>Archbishop emeritus of Vienna</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>29</Rank>
+    <Name>Norberto Rivera Carrera</Name>
+    <Country>Mexico</Country>
+    <Born>6 June 1942</Born>
+    <Order>CP</Order>
+    <Consistory>21 February 1998</Consistory>
+    <Office>Archbishop emeritus of Mexico</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>30</Rank>
+    <Name>Jānis Pujats</Name>
+    <Country>Latvia</Country>
+    <Born>14 November 1930</Born>
+    <Order>CP</Order>
+    <Consistory>21 February 1998</Consistory>
+    <Office>Archbishop emeritus of Riga</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>31</Rank>
+    <Name>Crescenzio Sepe</Name>
+    <Country>Italy</Country>
+    <Born>2 June 1943</Born>
+    <Order>CP</Order>
+    <Consistory>21 February 2001</Consistory>
+    <Office>Archbishop emeritus of Naples</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>32</Rank>
+    <Name>Walter Kasper</Name>
+    <Country>Germany</Country>
+    <Born>5 March 1933</Born>
+    <Order>CP</Order>
+    <Consistory>21 February 2001</Consistory>
+    <Office>President emeritus of the Pontifical Council for Promoting Christian Unity</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>33</Rank>
+    <Name>Audrys Bačkis</Name>
+    <Country>Lithuania</Country>
+    <Born>1 February 1937</Born>
+    <Order>CP</Order>
+    <Consistory>21 February 2001</Consistory>
+    <Office>Archbishop emeritus of Vilnius</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>34</Rank>
+    <Name>Francisco Javier Errázuriz Ossa ISch</Name>
+    <Country>Chile</Country>
+    <Born>5 September 1933</Born>
+    <Order>CP</Order>
+    <Consistory>21 February 2001</Consistory>
+    <Office>Archbishop emeritus of Santiago de Chile</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>35</Rank>
+    <Name>Wilfrid Napier OFM</Name>
+    <Country>South Africa</Country>
+    <Born>8 March 1941</Born>
+    <Order>CP</Order>
+    <Consistory>21 February 2001</Consistory>
+    <Office>Archbishop emeritus of Durban</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>36</Rank>
+    <Name>Óscar Rodríguez Maradiaga SDB</Name>
+    <Country>Honduras</Country>
+    <Born>29 December 1942</Born>
+    <Order>CP</Order>
+    <Consistory>21 February 2001</Consistory>
+    <Office>Archbishop emeritus of Tegucigalpa and Coordinator emeritus of the Council of Cardinals</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>37</Rank>
+    <Name>Juan Luis Cipriani Thorne</Name>
+    <Country>Peru</Country>
+    <Born>28 December 1943</Born>
+    <Order>CP</Order>
+    <Consistory>21 February 2001</Consistory>
+    <Office>Archbishop emeritus of Lima</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>38</Rank>
+    <Name>Julián Herranz Casado</Name>
+    <Country>Spain</Country>
+    <Born>31 March 1930</Born>
+    <Order>CP</Order>
+    <Consistory>21 October 2003</Consistory>
+    <Office>President emeritus of the Pontifical Council for Legislative Texts</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>39</Rank>
+    <Name>Angelo Scola</Name>
+    <Country>Italy</Country>
+    <Born>7 November 1941</Born>
+    <Order>CP</Order>
+    <Consistory>21 October 2003</Consistory>
+    <Office>Archbishop emeritus of Milan</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>40</Rank>
+    <Name>Anthony Olubunmi Okogie</Name>
+    <Country>Nigeria</Country>
+    <Born>16 June 1936</Born>
+    <Order>CP</Order>
+    <Consistory>21 October 2003</Consistory>
+    <Office>Archbishop emeritus of Lagos</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>41</Rank>
+    <Name>Gabriel Zubeir Wako</Name>
+    <Country>Sudan</Country>
+    <Born>27 February 1941</Born>
+    <Order>CP</Order>
+    <Consistory>21 October 2003</Consistory>
+    <Office>Archbishop emeritus of Khartoum</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>42</Rank>
+    <Name>Justin Rigali</Name>
+    <Country>United States</Country>
+    <Born>19 April 1935</Born>
+    <Order>CP</Order>
+    <Consistory>21 October 2003</Consistory>
+    <Office>Archbishop emeritus of Philadelphia</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>43</Rank>
+    <Name>Ennio Antonelli</Name>
+    <Country>Italy</Country>
+    <Born>18 November 1936</Born>
+    <Order>CP</Order>
+    <Consistory>21 October 2003</Consistory>
+    <Office>President emeritus of the Pontifical Council for the Family</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>44</Rank>
+    <Name>Peter Turkson</Name>
+    <Country>Ghana</Country>
+    <Born>11 October 1948</Born>
+    <Order>CP</Order>
+    <Consistory>21 October 2003</Consistory>
+    <Office>Chancellor of the Pontifical Academy of Sciences and the Pontifical Academy of Social Sciences</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>45</Rank>
+    <Name>Josip Bozanić</Name>
+    <Country>Croatia</Country>
+    <Born>20 March 1949</Born>
+    <Order>CP</Order>
+    <Consistory>21 October 2003</Consistory>
+    <Office>Archbishop emeritus of Zagreb</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>46</Rank>
+    <Name>Jean-Baptiste Phạm Minh Mẫn</Name>
+    <Country>Vietnam</Country>
+    <Born>5 March 1934</Born>
+    <Order>CP</Order>
+    <Consistory>21 October 2003</Consistory>
+    <Office>Archbishop emeritus of Ho Chi Minh City</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>47</Rank>
+    <Name>Philippe Barbarin</Name>
+    <Country>France</Country>
+    <Born>17 October 1950</Born>
+    <Order>CP</Order>
+    <Consistory>21 October 2003</Consistory>
+    <Office>Archbishop emeritus of Lyon</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>48</Rank>
+    <Name>Péter Erdő</Name>
+    <Country>Hungary</Country>
+    <Born>25 June 1952</Born>
+    <Order>CP</Order>
+    <Consistory>21 October 2003</Consistory>
+    <Office>Archbishop of Esztergom–Budapest</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope John Paul II</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>49</Rank>
+    <Name>Franc Rodé CM</Name>
+    <Country>Slovenia</Country>
+    <Born>23 September 1934</Born>
+    <Order>CP</Order>
+    <Consistory>24 March 2006</Consistory>
+    <Office>Prefect emeritus of the Congregation for Institutes of Consecrated Life and Societies of Apostolic Life</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>50</Rank>
+    <Name>Agostino Vallini</Name>
+    <Country>Italy</Country>
+    <Born>17 April 1940</Born>
+    <Order>CP</Order>
+    <Consistory>24 March 2006</Consistory>
+    <Office>Pontifical Legate emeritus for the Basilicas of Saint Francis and Saint Mary of the Angels in Assisi</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>51</Rank>
+    <Name>Gaudencio Borbon Rosales</Name>
+    <Country>Philippines</Country>
+    <Born>10 August 1932</Born>
+    <Order>CP</Order>
+    <Consistory>24 March 2006</Consistory>
+    <Office>Archbishop emeritus of Manila</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>52</Rank>
+    <Name>Jean-Pierre Ricard</Name>
+    <Country>France</Country>
+    <Born>25 September 1944</Born>
+    <Order>CP</Order>
+    <Consistory>24 March 2006</Consistory>
+    <Office>Archbishop emeritus of Bordeaux</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>53</Rank>
+    <Name>Antonio Cañizares Llovera</Name>
+    <Country>Spain</Country>
+    <Born>15 October 1945</Born>
+    <Order>CP</Order>
+    <Consistory>24 March 2006</Consistory>
+    <Office>Archbishop emeritus of Valencia</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>54</Rank>
+    <Name>Seán Patrick O'Malley OFMCap</Name>
+    <Country>United States</Country>
+    <Born>29 June 1944</Born>
+    <Order>CP</Order>
+    <Consistory>24 March 2006</Consistory>
+    <Office>Archbishop emeritus of Boston and President emeritus of the Pontifical Commission for the Protection of Minors</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>55</Rank>
+    <Name>Stanisław Dziwisz</Name>
+    <Country>Poland</Country>
+    <Born>27 April 1939</Born>
+    <Order>CP</Order>
+    <Consistory>24 March 2006</Consistory>
+    <Office>Archbishop emeritus of Kraków</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>56</Rank>
+    <Name>Joseph Zen Ze-kiun SDB</Name>
+    <Country>China(Hong Kong)[f]</Country>
+    <Born>13 January 1932</Born>
+    <Order>CP</Order>
+    <Consistory>24 March 2006</Consistory>
+    <Office>Bishop emeritus of Hong Kong</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>57</Rank>
+    <Name>Giovanni Lajolo</Name>
+    <Country>Italy</Country>
+    <Born>3 January 1935</Born>
+    <Order>CP</Order>
+    <Consistory>24 November 2007</Consistory>
+    <Office>President emeritus of the Pontifical Commission for Vatican City State</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>58</Rank>
+    <Name>Angelo Comastri</Name>
+    <Country>Italy</Country>
+    <Born>17 September 1943</Born>
+    <Order>CP</Order>
+    <Consistory>24 November 2007</Consistory>
+    <Office>Vicar General emeritus for Vatican City, Archpriest emeritus of the Papal Basilica of Saint Peter and President emeritus of the Fabric of Saint Peter</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>59</Rank>
+    <Name>Stanisław Ryłko</Name>
+    <Country>Poland</Country>
+    <Born>4 July 1945</Born>
+    <Order>CP</Order>
+    <Consistory>24 November 2007</Consistory>
+    <Office>Archpriest emeritus of the Papal Basilica of Saint Mary Major</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>60</Rank>
+    <Name>Raffaele Farina SDB</Name>
+    <Country>Italy</Country>
+    <Born>24 September 1933</Born>
+    <Order>CP</Order>
+    <Consistory>24 November 2007</Consistory>
+    <Office>Archivist and Librarian emeritus of the Holy Roman Church</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>61</Rank>
+    <Name>Seán Brady</Name>
+    <Country>Ireland[g]</Country>
+    <Born>16 August 1939</Born>
+    <Order>CP</Order>
+    <Consistory>24 November 2007</Consistory>
+    <Office>Archbishop emeritus of Armagh</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>62</Rank>
+    <Name>Lluís Martínez i Sistach</Name>
+    <Country>Spain</Country>
+    <Born>29 April 1937</Born>
+    <Order>CP</Order>
+    <Consistory>24 November 2007</Consistory>
+    <Office>Archbishop emeritus of Barcelona</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>63</Rank>
+    <Name>Angelo Bagnasco</Name>
+    <Country>Italy</Country>
+    <Born>14 January 1943</Born>
+    <Order>CP</Order>
+    <Consistory>24 November 2007</Consistory>
+    <Office>Archbishop emeritus of Genoa</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>64</Rank>
+    <Name>Théodore-Adrien Sarr</Name>
+    <Country>Senegal</Country>
+    <Born>28 November 1936</Born>
+    <Order>CP</Order>
+    <Consistory>24 November 2007</Consistory>
+    <Office>Archbishop emeritus of Dakar</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>65</Rank>
+    <Name>Oswald Gracias</Name>
+    <Country>India</Country>
+    <Born>24 December 1944</Born>
+    <Order>CP</Order>
+    <Consistory>24 November 2007</Consistory>
+    <Office>Archbishop emeritus of Bombay</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>66</Rank>
+    <Name>Francisco Robles Ortega</Name>
+    <Country>Mexico</Country>
+    <Born>2 March 1949</Born>
+    <Order>CP</Order>
+    <Consistory>24 November 2007</Consistory>
+    <Office>Archbishop of Guadalajara</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>67</Rank>
+    <Name>Daniel DiNardo</Name>
+    <Country>United States</Country>
+    <Born>23 May 1949</Born>
+    <Order>CP</Order>
+    <Consistory>24 November 2007</Consistory>
+    <Office>Archbishop emeritus of Galveston–Houston</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>68</Rank>
+    <Name>Odilo Scherer</Name>
+    <Country>Brazil</Country>
+    <Born>21 September 1949</Born>
+    <Order>CP</Order>
+    <Consistory>24 November 2007</Consistory>
+    <Office>Archbishop of São Paulo</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>69</Rank>
+    <Name>John Njue</Name>
+    <Country>Kenya</Country>
+    <Born>1 January 1946[h]</Born>
+    <Order>CP</Order>
+    <Consistory>24 November 2007</Consistory>
+    <Office>Archbishop emeritus of Nairobi</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>70</Rank>
+    <Name>Robert Sarah</Name>
+    <Country>Guinea</Country>
+    <Born>15 June 1945</Born>
+    <Order>CP</Order>
+    <Consistory>20 November 2010</Consistory>
+    <Office>Prefect emeritus of the Congregation for Divine Worship and the Discipline of the Sacraments</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>71</Rank>
+    <Name>Francesco Monterisi</Name>
+    <Country>Italy</Country>
+    <Born>28 May 1934</Born>
+    <Order>CP</Order>
+    <Consistory>20 November 2010</Consistory>
+    <Office>Archpriest emeritus of the Papal Basilica of Saint Paul Outside the Walls</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>72</Rank>
+    <Name>Raymond Leo Burke</Name>
+    <Country>United States</Country>
+    <Born>30 June 1948</Born>
+    <Order>CP</Order>
+    <Consistory>20 November 2010</Consistory>
+    <Office>Patron emeritus of the Sovereign Military Order of Malta</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>73</Rank>
+    <Name>Kurt Koch</Name>
+    <Country>Switzerland</Country>
+    <Born>15 March 1950</Born>
+    <Order>CP</Order>
+    <Consistory>20 November 2010</Consistory>
+    <Office>Prefect of the Dicastery for Promoting Christian Unity</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>74</Rank>
+    <Name>Mauro Piacenza</Name>
+    <Country>Italy</Country>
+    <Born>15 September 1944</Born>
+    <Order>CP</Order>
+    <Consistory>20 November 2010</Consistory>
+    <Office>Major Penitentiary emeritus</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>75</Rank>
+    <Name>Gianfranco Ravasi</Name>
+    <Country>Italy</Country>
+    <Born>18 October 1942</Born>
+    <Order>CP</Order>
+    <Consistory>20 November 2010</Consistory>
+    <Office>President emeritus of the Pontifical Council for Culture</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>76</Rank>
+    <Name>Paolo Romeo</Name>
+    <Country>Italy</Country>
+    <Born>20 February 1938</Born>
+    <Order>CP</Order>
+    <Consistory>20 November 2010</Consistory>
+    <Office>Archbishop emeritus of Palermo</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>77</Rank>
+    <Name>Donald Wuerl</Name>
+    <Country>United States</Country>
+    <Born>12 November 1940</Born>
+    <Order>CP</Order>
+    <Consistory>20 November 2010</Consistory>
+    <Office>Archbishop emeritus of Washington</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>78</Rank>
+    <Name>Raymundo Damasceno Assis</Name>
+    <Country>Brazil</Country>
+    <Born>15 February 1937</Born>
+    <Order>CP</Order>
+    <Consistory>20 November 2010</Consistory>
+    <Office>Archbishop emeritus of Aparecida</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>79</Rank>
+    <Name>Kazimierz Nycz</Name>
+    <Country>Poland</Country>
+    <Born>1 February 1950</Born>
+    <Order>CP</Order>
+    <Consistory>20 November 2010</Consistory>
+    <Office>Archbishop emeritus of Warsaw</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>80</Rank>
+    <Name>Malcolm Ranjith</Name>
+    <Country>Sri Lanka</Country>
+    <Born>15 November 1947</Born>
+    <Order>CP</Order>
+    <Consistory>20 November 2010</Consistory>
+    <Office>Archbishop of Colombo</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>81</Rank>
+    <Name>Reinhard Marx</Name>
+    <Country>Germany</Country>
+    <Born>21 September 1953</Born>
+    <Order>CP</Order>
+    <Consistory>20 November 2010</Consistory>
+    <Office>Archbishop of Munich and Freising and Coordinator of the Council for the Economy</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>82</Rank>
+    <Name>Walter Brandmüller</Name>
+    <Country>Germany</Country>
+    <Born>5 January 1929</Born>
+    <Order>CP</Order>
+    <Consistory>20 November 2010</Consistory>
+    <Office>President emeritus of the Pontifical Committee for Historical Sciences</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>83</Rank>
+    <Name>Manuel Monteiro de Castro</Name>
+    <Country>Portugal</Country>
+    <Born>29 March 1938</Born>
+    <Order>CP</Order>
+    <Consistory>18 February 2012</Consistory>
+    <Office>Major Penitentiary emeritus</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>84</Rank>
+    <Name>Santos Abril y Castelló</Name>
+    <Country>Spain</Country>
+    <Born>21 September 1935</Born>
+    <Order>CP</Order>
+    <Consistory>18 February 2012</Consistory>
+    <Office>Archpriest emeritus of the Papal Basilica of Saint Mary Major</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>85</Rank>
+    <Name>Antonio Maria Vegliò</Name>
+    <Country>Italy</Country>
+    <Born>3 February 1938</Born>
+    <Order>CP</Order>
+    <Consistory>18 February 2012</Consistory>
+    <Office>President emeritus of the Pontifical Council for the Pastoral Care of Migrants and Itinerant People</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>86</Rank>
+    <Name>Giuseppe Bertello</Name>
+    <Country>Italy</Country>
+    <Born>1 October 1942</Born>
+    <Order>CP</Order>
+    <Consistory>18 February 2012</Consistory>
+    <Office>President emeritus of the Pontifical Commission for Vatican City State</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>87</Rank>
+    <Name>Francesco Coccopalmerio</Name>
+    <Country>Italy</Country>
+    <Born>6 March 1938</Born>
+    <Order>CP</Order>
+    <Consistory>18 February 2012</Consistory>
+    <Office>President emeritus of the Pontifical Council for Legislative Texts</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>88</Rank>
+    <Name>João Braz de Aviz</Name>
+    <Country>Brazil</Country>
+    <Born>24 April 1947</Born>
+    <Order>CP</Order>
+    <Consistory>18 February 2012</Consistory>
+    <Office>Prefect emeritus of the Dicastery for Institutes of Consecrated Life and Societies of Apostolic Life</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>89</Rank>
+    <Name>Edwin Frederick O'Brien</Name>
+    <Country>United States</Country>
+    <Born>8 April 1939</Born>
+    <Order>CP</Order>
+    <Consistory>18 February 2012</Consistory>
+    <Office>Grand Master emeritus of the Order of the Holy Sepulchre</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>90</Rank>
+    <Name>Domenico Calcagno</Name>
+    <Country>Italy</Country>
+    <Born>3 February 1943</Born>
+    <Order>CP</Order>
+    <Consistory>18 February 2012</Consistory>
+    <Office>President emeritus of the Administration of the Patrimony of the Apostolic See</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>91</Rank>
+    <Name>Giuseppe Versaldi</Name>
+    <Country>Italy</Country>
+    <Born>30 July 1943</Born>
+    <Order>CP</Order>
+    <Consistory>18 February 2012</Consistory>
+    <Office>Prefect emeritus of the Congregation for Catholic Education</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>92</Rank>
+    <Name>George Alencherry</Name>
+    <Country>India</Country>
+    <Born>19 April 1945</Born>
+    <Order>CP</Order>
+    <Consistory>18 February 2012</Consistory>
+    <Office>Major Archbishop emeritus of Ernakulam–Angamaly(Syro-Malabar Church)</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>93</Rank>
+    <Name>Thomas Collins</Name>
+    <Country>Canada</Country>
+    <Born>16 January 1947</Born>
+    <Order>CP</Order>
+    <Consistory>18 February 2012</Consistory>
+    <Office>Archbishop emeritus of Toronto</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>94</Rank>
+    <Name>Wim Eijk</Name>
+    <Country>Netherlands</Country>
+    <Born>22 June 1953</Born>
+    <Order>CP</Order>
+    <Consistory>18 February 2012</Consistory>
+    <Office>Archbishop of Utrecht</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>95</Rank>
+    <Name>Giuseppe Betori</Name>
+    <Country>Italy</Country>
+    <Born>25 February 1947</Born>
+    <Order>CP</Order>
+    <Consistory>18 February 2012</Consistory>
+    <Office>Archbishop emeritus of Florence</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>96</Rank>
+    <Name>Timothy M. Dolan</Name>
+    <Country>United States</Country>
+    <Born>6 February 1950</Born>
+    <Order>CP</Order>
+    <Consistory>18 February 2012</Consistory>
+    <Office>Archbishop of New York</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>97</Rank>
+    <Name>Rainer Woelki</Name>
+    <Country>Germany</Country>
+    <Born>18 August 1956</Born>
+    <Order>CP</Order>
+    <Consistory>18 February 2012</Consistory>
+    <Office>Archbishop of Cologne</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>98</Rank>
+    <Name>John Tong Hon</Name>
+    <Country>China(Hong Kong)[f]</Country>
+    <Born>31 July 1939</Born>
+    <Order>CP</Order>
+    <Consistory>18 February 2012</Consistory>
+    <Office>Bishop emeritus of Hong Kong</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>99</Rank>
+    <Name>James Michael Harvey</Name>
+    <Country>United States</Country>
+    <Born>20 October 1949</Born>
+    <Order>CP</Order>
+    <Consistory>24 November 2012</Consistory>
+    <Office>Archpriest of the Papal Basilica of Saint Paul Outside the Walls</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>100</Rank>
+    <Name>Baselios Cleemis</Name>
+    <Country>India</Country>
+    <Born>15 June 1959</Born>
+    <Order>CP</Order>
+    <Consistory>24 November 2012</Consistory>
+    <Office>Major Archbishop of Trivandrum(Syro-Malankara Church)</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>101</Rank>
+    <Name>John Onaiyekan</Name>
+    <Country>Nigeria</Country>
+    <Born>29 January 1944</Born>
+    <Order>CP</Order>
+    <Consistory>24 November 2012</Consistory>
+    <Office>Archbishop emeritus of Abuja</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>102</Rank>
+    <Name>Rubén Salazar Gómez</Name>
+    <Country>Colombia</Country>
+    <Born>22 September 1942</Born>
+    <Order>CP</Order>
+    <Consistory>24 November 2012</Consistory>
+    <Office>Archbishop emeritus of Bogotá</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Benedict XVI</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>103</Rank>
+    <Name>Lorenzo Baldisseri</Name>
+    <Country>Italy</Country>
+    <Born>29 September 1940</Born>
+    <Order>CP</Order>
+    <Consistory>22 February 2014</Consistory>
+    <Office>Secretary-General emeritus of the Synod of Bishops</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>104</Rank>
+    <Name>Gerhard Ludwig Müller</Name>
+    <Country>Germany</Country>
+    <Born>31 December 1947</Born>
+    <Order>CP</Order>
+    <Consistory>22 February 2014</Consistory>
+    <Office>Prefect emeritus of the Congregation for the Doctrine of the Faith</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>105</Rank>
+    <Name>Vincent Nichols</Name>
+    <Country>United Kingdom</Country>
+    <Born>8 November 1945</Born>
+    <Order>CP</Order>
+    <Consistory>22 February 2014</Consistory>
+    <Office>Archbishop of Westminster</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>106</Rank>
+    <Name>Leopoldo Brenes</Name>
+    <Country>Nicaragua</Country>
+    <Born>7 March 1949</Born>
+    <Order>CP</Order>
+    <Consistory>22 February 2014</Consistory>
+    <Office>Archbishop of Managua</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>107</Rank>
+    <Name>Gérald Lacroix ISPX</Name>
+    <Country>Canada</Country>
+    <Born>27 July 1957</Born>
+    <Order>CP</Order>
+    <Consistory>22 February 2014</Consistory>
+    <Office>Archbishop of Quebec</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>108</Rank>
+    <Name>Jean-Pierre Kutwa</Name>
+    <Country>Ivory Coast</Country>
+    <Born>22 December 1945</Born>
+    <Order>CP</Order>
+    <Consistory>22 February 2014</Consistory>
+    <Office>Archbishop emeritus of Abidjan</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>109</Rank>
+    <Name>Orani João Tempesta OCist</Name>
+    <Country>Brazil</Country>
+    <Born>23 June 1950</Born>
+    <Order>CP</Order>
+    <Consistory>22 February 2014</Consistory>
+    <Office>Archbishop of São Sebastião do Rio de Janeiro</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>110</Rank>
+    <Name>Gualtiero Bassetti</Name>
+    <Country>Italy</Country>
+    <Born>7 April 1942</Born>
+    <Order>CP</Order>
+    <Consistory>22 February 2014</Consistory>
+    <Office>Archbishop emeritus of Perugia–Città della Pieve</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>111</Rank>
+    <Name>Mario Aurelio Poli</Name>
+    <Country>Argentina</Country>
+    <Born>29 November 1947</Born>
+    <Order>CP</Order>
+    <Consistory>22 February 2014</Consistory>
+    <Office>Archbishop emeritus of Buenos Aires</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>112</Rank>
+    <Name>Andrew Yeom Soo-jung</Name>
+    <Country>South Korea</Country>
+    <Born>5 December 1943</Born>
+    <Order>CP</Order>
+    <Consistory>22 February 2014</Consistory>
+    <Office>Archbishop emeritus of Seoul</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>113</Rank>
+    <Name>Ricardo Ezzati SDB</Name>
+    <Country>Chile[i]</Country>
+    <Born>7 January 1942</Born>
+    <Order>CP</Order>
+    <Consistory>22 February 2014</Consistory>
+    <Office>Archbishop emeritus of Santiago de Chile</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>114</Rank>
+    <Name>Philippe Ouédraogo</Name>
+    <Country>Burkina Faso</Country>
+    <Born>31 December 1945[j]</Born>
+    <Order>CP</Order>
+    <Consistory>22 February 2014</Consistory>
+    <Office>Archbishop emeritus of Ouagadougou</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>115</Rank>
+    <Name>Orlando Quevedo OMI</Name>
+    <Country>Philippines</Country>
+    <Born>11 March 1939</Born>
+    <Order>CP</Order>
+    <Consistory>22 February 2014</Consistory>
+    <Office>Archbishop emeritus of Cotabato</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>116</Rank>
+    <Name>Chibly Langlois</Name>
+    <Country>Haiti</Country>
+    <Born>29 November 1958</Born>
+    <Order>CP</Order>
+    <Consistory>22 February 2014</Consistory>
+    <Office>Bishop of Les Cayes</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>117</Rank>
+    <Name>Manuel Clemente</Name>
+    <Country>Portugal</Country>
+    <Born>16 July 1948</Born>
+    <Order>CP</Order>
+    <Consistory>14 February 2015</Consistory>
+    <Office>Patriarch emeritus of Lisbon</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>118</Rank>
+    <Name>Berhaneyesus Demerew Souraphiel CM</Name>
+    <Country>Ethiopia</Country>
+    <Born>14 July 1948</Born>
+    <Order>CP</Order>
+    <Consistory>14 February 2015</Consistory>
+    <Office>Archbishop of Addis Abeba(Ethiopian Church)</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>119</Rank>
+    <Name>John Dew</Name>
+    <Country>New Zealand</Country>
+    <Born>5 May 1948</Born>
+    <Order>CP</Order>
+    <Consistory>14 February 2015</Consistory>
+    <Office>Archbishop emeritus of Wellington</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>120</Rank>
+    <Name>Pierre Nguyễn Văn Nhơn</Name>
+    <Country>Vietnam</Country>
+    <Born>1 April 1938</Born>
+    <Order>CP</Order>
+    <Consistory>14 February 2015</Consistory>
+    <Office>Archbishop emeritus of Hanoi</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>121</Rank>
+    <Name>Alberto Suárez Inda</Name>
+    <Country>Mexico</Country>
+    <Born>30 January 1939</Born>
+    <Order>CP</Order>
+    <Consistory>14 February 2015</Consistory>
+    <Office>Archbishop emeritus of Morelia</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>122</Rank>
+    <Name>Charles Maung Bo SDB</Name>
+    <Country>Myanmar</Country>
+    <Born>29 October 1948</Born>
+    <Order>CP</Order>
+    <Consistory>14 February 2015</Consistory>
+    <Office>Archbishop of Yangon</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>123</Rank>
+    <Name>Kriengsak Kovitvanit</Name>
+    <Country>Thailand</Country>
+    <Born>27 June 1949</Born>
+    <Order>CP</Order>
+    <Consistory>14 February 2015</Consistory>
+    <Office>Archbishop emeritus of Bangkok</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>124</Rank>
+    <Name>Francesco Montenegro</Name>
+    <Country>Italy</Country>
+    <Born>22 May 1946</Born>
+    <Order>CP</Order>
+    <Consistory>14 February 2015</Consistory>
+    <Office>Archbishop emeritus of Agrigento</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>125</Rank>
+    <Name>Daniel Sturla SDB</Name>
+    <Country>Uruguay</Country>
+    <Born>4 July 1959</Born>
+    <Order>CP</Order>
+    <Consistory>14 February 2015</Consistory>
+    <Office>Archbishop of Montevideo</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>126</Rank>
+    <Name>Ricardo Blázquez</Name>
+    <Country>Spain</Country>
+    <Born>13 April 1942</Born>
+    <Order>CP</Order>
+    <Consistory>14 February 2015</Consistory>
+    <Office>Archbishop emeritus of Valladolid</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>127</Rank>
+    <Name>José Luis Lacunza Maestrojuán OAR</Name>
+    <Country>Panama[k]</Country>
+    <Born>24 February 1944</Born>
+    <Order>CP</Order>
+    <Consistory>14 February 2015</Consistory>
+    <Office>Bishop emeritus of David</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>128</Rank>
+    <Name>Arlindo Gomes Furtado</Name>
+    <Country>Cape Verde</Country>
+    <Born>15 November 1949</Born>
+    <Order>CP</Order>
+    <Consistory>14 February 2015</Consistory>
+    <Office>Bishop of Santiago de Cabo Verde</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>129</Rank>
+    <Name>Soane Patita Paini Mafi</Name>
+    <Country>Tonga</Country>
+    <Born>19 December 1961</Born>
+    <Order>CP</Order>
+    <Consistory>14 February 2015</Consistory>
+    <Office>Bishop of Tonga</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>130</Rank>
+    <Name>Luis Héctor Villalba</Name>
+    <Country>Argentina</Country>
+    <Born>11 October 1934</Born>
+    <Order>CP</Order>
+    <Consistory>14 February 2015</Consistory>
+    <Office>Archbishop emeritus of Tucumán</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>131</Rank>
+    <Name>Júlio Duarte Langa</Name>
+    <Country>Mozambique</Country>
+    <Born>27 October 1927</Born>
+    <Order>CP</Order>
+    <Consistory>14 February 2015</Consistory>
+    <Office>Bishop emeritus of Xai-Xai</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>132</Rank>
+    <Name>Dieudonné Nzapalainga CSSp</Name>
+    <Country>Central African Republic</Country>
+    <Born>14 March 1967</Born>
+    <Order>CP</Order>
+    <Consistory>19 November 2016</Consistory>
+    <Office>Archbishop of Bangui</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>133</Rank>
+    <Name>Carlos Osoro Sierra</Name>
+    <Country>Spain</Country>
+    <Born>16 May 1945</Born>
+    <Order>CP</Order>
+    <Consistory>19 November 2016</Consistory>
+    <Office>Archbishop emeritus of Madrid</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>134</Rank>
+    <Name>Sérgio da Rocha</Name>
+    <Country>Brazil</Country>
+    <Born>21 October 1959</Born>
+    <Order>CP</Order>
+    <Consistory>19 November 2016</Consistory>
+    <Office>Archbishop of São Salvador da Bahia</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>135</Rank>
+    <Name>Blase J. Cupich</Name>
+    <Country>United States</Country>
+    <Born>19 March 1949</Born>
+    <Order>CP</Order>
+    <Consistory>19 November 2016</Consistory>
+    <Office>Archbishop of Chicago</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>136</Rank>
+    <Name>Patrick D'Rozario CSC</Name>
+    <Country>Bangladesh</Country>
+    <Born>1 October 1943</Born>
+    <Order>CP</Order>
+    <Consistory>19 November 2016</Consistory>
+    <Office>Archbishop emeritus of Dhaka</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>137</Rank>
+    <Name>Baltazar Enrique Porras Cardozo</Name>
+    <Country>Venezuela</Country>
+    <Born>10 October 1944</Born>
+    <Order>CP</Order>
+    <Consistory>19 November 2016</Consistory>
+    <Office>Archbishop emeritus of Caracas</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>138</Rank>
+    <Name>Jozef De Kesel</Name>
+    <Country>Belgium</Country>
+    <Born>17 June 1947</Born>
+    <Order>CP</Order>
+    <Consistory>19 November 2016</Consistory>
+    <Office>Archbishop emeritus of Mechelen–Brussels</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>139</Rank>
+    <Name>Maurice Piat CSSp</Name>
+    <Country>Mauritius</Country>
+    <Born>19 July 1941</Born>
+    <Order>CP</Order>
+    <Consistory>19 November 2016</Consistory>
+    <Office>Bishop emeritus of Port-Louis</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>140</Rank>
+    <Name>Carlos Aguiar Retes</Name>
+    <Country>Mexico</Country>
+    <Born>9 January 1950</Born>
+    <Order>CP</Order>
+    <Consistory>19 November 2016</Consistory>
+    <Office>Archbishop of Mexico</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>141</Rank>
+    <Name>John Ribat MSC</Name>
+    <Country>Papua New Guinea</Country>
+    <Born>9 February 1957</Born>
+    <Order>CP</Order>
+    <Consistory>19 November 2016</Consistory>
+    <Office>Archbishop of Port Moresby</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>142</Rank>
+    <Name>Joseph W. Tobin CSsR</Name>
+    <Country>United States</Country>
+    <Born>3 May 1952</Born>
+    <Order>CP</Order>
+    <Consistory>19 November 2016</Consistory>
+    <Office>Archbishop of Newark</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>143</Rank>
+    <Name>Jean Zerbo</Name>
+    <Country>Mali</Country>
+    <Born>27 December 1943</Born>
+    <Order>CP</Order>
+    <Consistory>28 June 2017</Consistory>
+    <Office>Archbishop emeritus of Bamako</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>144</Rank>
+    <Name>Juan José Omella</Name>
+    <Country>Spain</Country>
+    <Born>21 April 1946</Born>
+    <Order>CP</Order>
+    <Consistory>28 June 2017</Consistory>
+    <Office>Archbishop of Barcelona</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>145</Rank>
+    <Name>Anders Arborelius OCD</Name>
+    <Country>Sweden</Country>
+    <Born>24 September 1949</Born>
+    <Order>CP</Order>
+    <Consistory>28 June 2017</Consistory>
+    <Office>Bishop of Stockholm</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>146</Rank>
+    <Name>Louis-Marie Ling Mangkhanekhoun IVD</Name>
+    <Country>Laos</Country>
+    <Born>8 April 1944</Born>
+    <Order>CP</Order>
+    <Consistory>28 June 2017</Consistory>
+    <Office>Apostolic Vicar emeritus of Vientiane</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>147</Rank>
+    <Name>Gregorio Rosa Chávez</Name>
+    <Country>El Salvador</Country>
+    <Born>3 September 1942</Born>
+    <Order>CP</Order>
+    <Consistory>28 June 2017</Consistory>
+    <Office>Auxiliary Bishop emeritus of San Salvador</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>148</Rank>
+    <Name>Angelo De Donatis</Name>
+    <Country>Italy</Country>
+    <Born>4 January 1954</Born>
+    <Order>CP</Order>
+    <Consistory>28 June 2018</Consistory>
+    <Office>Major Penitentiary</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>149</Rank>
+    <Name>Joseph Coutts</Name>
+    <Country>Pakistan</Country>
+    <Born>21 July 1945</Born>
+    <Order>CP</Order>
+    <Consistory>28 June 2018</Consistory>
+    <Office>Archbishop emeritus of Karachi</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>150</Rank>
+    <Name>António Marto</Name>
+    <Country>Portugal</Country>
+    <Born>5 May 1947</Born>
+    <Order>CP</Order>
+    <Consistory>28 June 2018</Consistory>
+    <Office>Bishop emeritus of Leiria–Fátima</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>151</Rank>
+    <Name>Pedro Barreto SJ</Name>
+    <Country>Peru</Country>
+    <Born>12 February 1944</Born>
+    <Order>CP</Order>
+    <Consistory>28 June 2018</Consistory>
+    <Office>Archbishop emeritus of Huancayo</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>152</Rank>
+    <Name>Désiré Tsarahazana</Name>
+    <Country>Madagascar</Country>
+    <Born>13 June 1954</Born>
+    <Order>CP</Order>
+    <Consistory>28 June 2018</Consistory>
+    <Office>Archbishop of Toamasina</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>153</Rank>
+    <Name>Giuseppe Petrocchi</Name>
+    <Country>Italy</Country>
+    <Born>19 August 1948</Born>
+    <Order>CP</Order>
+    <Consistory>28 June 2018</Consistory>
+    <Office>Archbishop emeritus of L'Aquila</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>154</Rank>
+    <Name>Thomas Aquino Manyo Maeda</Name>
+    <Country>Japan</Country>
+    <Born>3 March 1949</Born>
+    <Order>CP</Order>
+    <Consistory>28 June 2018</Consistory>
+    <Office>Archbishop of Osaka–Takamatsu</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>155</Rank>
+    <Name>Toribio Ticona Porco</Name>
+    <Country>Bolivia</Country>
+    <Born>25 April 1937</Born>
+    <Order>CP</Order>
+    <Consistory>28 June 2018</Consistory>
+    <Office>Bishop Prelate emeritus of Corocoro</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>156</Rank>
+    <Name>Ignatius Suharyo Hardjoatmodjo</Name>
+    <Country>Indonesia</Country>
+    <Born>9 July 1950</Born>
+    <Order>CP</Order>
+    <Consistory>5 October 2019</Consistory>
+    <Office>Archbishop of Jakarta</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>157</Rank>
+    <Name>Juan García Rodríguez</Name>
+    <Country>Cuba</Country>
+    <Born>11 July 1948</Born>
+    <Order>CP</Order>
+    <Consistory>5 October 2019</Consistory>
+    <Office>Archbishop of San Cristóbal de la Habana</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>158</Rank>
+    <Name>Fridolin Ambongo Besungu OFMCap</Name>
+    <Country>Democratic Republic of the Congo</Country>
+    <Born>24 January 1960</Born>
+    <Order>CP</Order>
+    <Consistory>5 October 2019</Consistory>
+    <Office>Archbishop of Kinshasa</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>159</Rank>
+    <Name>Jean-Claude Hollerich SJ</Name>
+    <Country>Luxembourg</Country>
+    <Born>9 August 1958</Born>
+    <Order>CP</Order>
+    <Consistory>5 October 2019</Consistory>
+    <Office>Archbishop of Luxembourg</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>160</Rank>
+    <Name>Álvaro Leonel Ramazzini Imeri</Name>
+    <Country>Guatemala</Country>
+    <Born>16 July 1947</Born>
+    <Order>CP</Order>
+    <Consistory>5 October 2019</Consistory>
+    <Office>Bishop of Huehuetenango</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>161</Rank>
+    <Name>Matteo Zuppi</Name>
+    <Country>Italy</Country>
+    <Born>11 October 1955</Born>
+    <Order>CP</Order>
+    <Consistory>5 October 2019</Consistory>
+    <Office>Archbishop of Bologna</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>162</Rank>
+    <Name>Cristóbal López Romero SDB</Name>
+    <Country>Morocco[l]</Country>
+    <Born>19 May 1952</Born>
+    <Order>CP</Order>
+    <Consistory>5 October 2019</Consistory>
+    <Office>Archbishop of Rabat</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>163</Rank>
+    <Name>Sigitas Tamkevičius SJ</Name>
+    <Country>Lithuania</Country>
+    <Born>7 November 1938</Born>
+    <Order>CP</Order>
+    <Consistory>5 October 2019</Consistory>
+    <Office>Archbishop emeritus of Kaunas</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>164</Rank>
+    <Name>Antoine Kambanda</Name>
+    <Country>Rwanda</Country>
+    <Born>10 November 1958</Born>
+    <Order>CP</Order>
+    <Consistory>28 November 2020</Consistory>
+    <Office>Archbishop of Kigali</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>165</Rank>
+    <Name>Wilton Daniel Gregory</Name>
+    <Country>United States</Country>
+    <Born>7 December 1947</Born>
+    <Order>CP</Order>
+    <Consistory>28 November 2020</Consistory>
+    <Office>Archbishop emeritus of Washington</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>166</Rank>
+    <Name>Jose Advincula OP</Name>
+    <Country>Philippines</Country>
+    <Born>30 March 1952</Born>
+    <Order>CP</Order>
+    <Consistory>28 November 2020</Consistory>
+    <Office>Archbishop of Manila</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>167</Rank>
+    <Name>Celestino Aós Braco OFMCap</Name>
+    <Country>Chile[m]</Country>
+    <Born>6 April 1945</Born>
+    <Order>CP</Order>
+    <Consistory>28 November 2020</Consistory>
+    <Office>Archbishop emeritus of Santiago de Chile</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>168</Rank>
+    <Name>Augusto Paolo Lojudice</Name>
+    <Country>Italy</Country>
+    <Born>1 July 1964</Born>
+    <Order>CP</Order>
+    <Consistory>28 November 2020</Consistory>
+    <Office>Archbishop of Siena–Colle di Val d'Elsa–Montalcino and Bishop of Montepulciano–Chiusi–Pienza</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>169</Rank>
+    <Name>Felipe Arizmendi Esquivel</Name>
+    <Country>Mexico</Country>
+    <Born>1 May 1940</Born>
+    <Order>CP</Order>
+    <Consistory>28 November 2020</Consistory>
+    <Office>Bishop emeritus of San Cristóbal de Las Casas</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>170</Rank>
+    <Name>Jean-Marc Aveline</Name>
+    <Country>France</Country>
+    <Born>26 December 1958</Born>
+    <Order>CP</Order>
+    <Consistory>27 August 2022</Consistory>
+    <Office>Archbishop of Marseille</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>171</Rank>
+    <Name>Peter Okpaleke</Name>
+    <Country>Nigeria</Country>
+    <Born>1 March 1963</Born>
+    <Order>CP</Order>
+    <Consistory>27 August 2022</Consistory>
+    <Office>Bishop of Ekwulobia</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>172</Rank>
+    <Name>Leonardo Ulrich Steiner OFM</Name>
+    <Country>Brazil</Country>
+    <Born>6 November 1950</Born>
+    <Order>CP</Order>
+    <Consistory>27 August 2022</Consistory>
+    <Office>Archbishop of Manaus</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>173</Rank>
+    <Name>Filipe Neri Ferrão</Name>
+    <Country>India</Country>
+    <Born>20 January 1953</Born>
+    <Order>CP</Order>
+    <Consistory>27 August 2022</Consistory>
+    <Office>Archbishop of Goa and Daman and Patriarch of the East Indies</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>174</Rank>
+    <Name>Robert W. McElroy</Name>
+    <Country>United States</Country>
+    <Born>5 February 1954</Born>
+    <Order>CP</Order>
+    <Consistory>27 August 2022</Consistory>
+    <Office>Archbishop of Washington</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>175</Rank>
+    <Name>Virgílio do Carmo da Silva SDB</Name>
+    <Country>East Timor</Country>
+    <Born>27 November 1967</Born>
+    <Order>CP</Order>
+    <Consistory>27 August 2022</Consistory>
+    <Office>Archbishop of Díli</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>176</Rank>
+    <Name>Oscar Cantoni</Name>
+    <Country>Italy</Country>
+    <Born>1 September 1950</Born>
+    <Order>CP</Order>
+    <Consistory>27 August 2022</Consistory>
+    <Office>Bishop of Como</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>177</Rank>
+    <Name>Anthony Poola</Name>
+    <Country>India</Country>
+    <Born>15 November 1961</Born>
+    <Order>CP</Order>
+    <Consistory>27 August 2022</Consistory>
+    <Office>Archbishop of Hyderabad</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>178</Rank>
+    <Name>Paulo Cezar Costa</Name>
+    <Country>Brazil</Country>
+    <Born>20 July 1967</Born>
+    <Order>CP</Order>
+    <Consistory>27 August 2022</Consistory>
+    <Office>Archbishop of Brasília</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>179</Rank>
+    <Name>William Goh</Name>
+    <Country>Singapore</Country>
+    <Born>25 June 1957</Born>
+    <Order>CP</Order>
+    <Consistory>27 August 2022</Consistory>
+    <Office>Archbishop of Singapore</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>180</Rank>
+    <Name>Adalberto Martínez Flores</Name>
+    <Country>Paraguay</Country>
+    <Born>8 July 1951</Born>
+    <Order>CP</Order>
+    <Consistory>27 August 2022</Consistory>
+    <Office>Archbishop of Asunción</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>181</Rank>
+    <Name>Giorgio Marengo IMC</Name>
+    <Country>Mongolia[n]</Country>
+    <Born>7 June 1974</Born>
+    <Order>CP</Order>
+    <Consistory>27 August 2022</Consistory>
+    <Office>Apostolic Prefect of Ulaanbaatar</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>182</Rank>
+    <Name>Jorge Enrique Jiménez Carvajal CJM</Name>
+    <Country>Colombia</Country>
+    <Born>29 March 1942</Born>
+    <Order>CP</Order>
+    <Consistory>27 August 2022</Consistory>
+    <Office>Archbishop emeritus of Cartagena</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>183</Rank>
+    <Name>Arrigo Miglio</Name>
+    <Country>Italy</Country>
+    <Born>18 July 1942</Born>
+    <Order>CP</Order>
+    <Consistory>27 August 2022</Consistory>
+    <Office>Archbishop emeritus of Cagliari</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>184</Rank>
+    <Name>Pierbattista Pizzaballa OFM</Name>
+    <Country>Jerusalem[o]</Country>
+    <Born>21 April 1965</Born>
+    <Order>CP</Order>
+    <Consistory>30 September 2023</Consistory>
+    <Office>Latin Patriarch of Jerusalem</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>185</Rank>
+    <Name>Stephen Brislin</Name>
+    <Country>South Africa</Country>
+    <Born>24 September 1956</Born>
+    <Order>CP</Order>
+    <Consistory>30 September 2023</Consistory>
+    <Office>Archbishop of Johannesburg</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>186</Rank>
+    <Name>Ángel Sixto Rossi SJ</Name>
+    <Country>Argentina</Country>
+    <Born>11 August 1958</Born>
+    <Order>CP</Order>
+    <Consistory>30 September 2023</Consistory>
+    <Office>Archbishop of Córdoba</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>187</Rank>
+    <Name>Luis José Rueda Aparicio</Name>
+    <Country>Colombia</Country>
+    <Born>3 March 1962</Born>
+    <Order>CP</Order>
+    <Consistory>30 September 2023</Consistory>
+    <Office>Archbishop of Bogotá</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>188</Rank>
+    <Name>Grzegorz Ryś</Name>
+    <Country>Poland</Country>
+    <Born>9 February 1964</Born>
+    <Order>CP</Order>
+    <Consistory>30 September 2023</Consistory>
+    <Office>Archbishop of Łódź</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>189</Rank>
+    <Name>Stephen Ameyu Martin Mulla</Name>
+    <Country>South Sudan</Country>
+    <Born>10 January 1964</Born>
+    <Order>CP</Order>
+    <Consistory>30 September 2023</Consistory>
+    <Office>Archbishop of Juba</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>190</Rank>
+    <Name>José Cobo Cano</Name>
+    <Country>Spain</Country>
+    <Born>20 September 1965</Born>
+    <Order>CP</Order>
+    <Consistory>30 September 2023</Consistory>
+    <Office>Archbishop of Madrid</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>191</Rank>
+    <Name>Protase Rugambwa</Name>
+    <Country>Tanzania</Country>
+    <Born>31 May 1960</Born>
+    <Order>CP</Order>
+    <Consistory>30 September 2023</Consistory>
+    <Office>Archbishop of Tabora</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>192</Rank>
+    <Name>Sebastian Francis</Name>
+    <Country>Malaysia</Country>
+    <Born>11 November 1951</Born>
+    <Order>CP</Order>
+    <Consistory>30 September 2023</Consistory>
+    <Office>Bishop of Penang</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>193</Rank>
+    <Name>Stephen Chow Sau-yan SJ</Name>
+    <Country>China(Hong Kong)[f]</Country>
+    <Born>7 August 1959</Born>
+    <Order>CP</Order>
+    <Consistory>30 September 2023</Consistory>
+    <Office>Bishop of Hong Kong</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>194</Rank>
+    <Name>François-Xavier Bustillo OFMConv</Name>
+    <Country>France[p]</Country>
+    <Born>23 November 1968</Born>
+    <Order>CP</Order>
+    <Consistory>30 September 2023</Consistory>
+    <Office>Bishop of Ajaccio</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>195</Rank>
+    <Name>Américo Aguiar</Name>
+    <Country>Portugal</Country>
+    <Born>12 December 1973</Born>
+    <Order>CP</Order>
+    <Consistory>30 September 2023</Consistory>
+    <Office>Bishop of Setúbal</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>196</Rank>
+    <Name>Diego Rafael Padrón Sánchez</Name>
+    <Country>Venezuela</Country>
+    <Born>17 May 1939</Born>
+    <Order>CP</Order>
+    <Consistory>30 September 2023</Consistory>
+    <Office>Archbishop emeritus of Cumaná</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>197</Rank>
+    <Name>Carlos Castillo Mattasoglio</Name>
+    <Country>Peru</Country>
+    <Born>28 February 1950</Born>
+    <Order>CP</Order>
+    <Consistory>7 December 2024</Consistory>
+    <Office>Archbishop of Lima</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>198</Rank>
+    <Name>Vicente Bokalic Iglic CM</Name>
+    <Country>Argentina</Country>
+    <Born>11 June 1952</Born>
+    <Order>CP</Order>
+    <Consistory>7 December 2024</Consistory>
+    <Office>Archbishop of Santiago del Estero</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>199</Rank>
+    <Name>Luis Cabrera Herrera OFM</Name>
+    <Country>Ecuador</Country>
+    <Born>11 October 1955</Born>
+    <Order>CP</Order>
+    <Consistory>7 December 2024</Consistory>
+    <Office>Archbishop of Guayaquil</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>200</Rank>
+    <Name>Fernando Chomalí Garib</Name>
+    <Country>Chile</Country>
+    <Born>10 March 1957</Born>
+    <Order>CP</Order>
+    <Consistory>7 December 2024</Consistory>
+    <Office>Archbishop of Santiago de Chile</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>201</Rank>
+    <Name>Tarcisio Isao Kikuchi SVD</Name>
+    <Country>Japan</Country>
+    <Born>1 November 1958</Born>
+    <Order>CP</Order>
+    <Consistory>7 December 2024</Consistory>
+    <Office>Archbishop of Tokyo</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>202</Rank>
+    <Name>Pablo Virgilio David</Name>
+    <Country>Philippines</Country>
+    <Born>2 March 1959</Born>
+    <Order>CP</Order>
+    <Consistory>7 December 2024</Consistory>
+    <Office>Bishop of Kalookan</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>203</Rank>
+    <Name>Ladislav Nemet SVD</Name>
+    <Country>Serbia[q]</Country>
+    <Born>7 September 1956</Born>
+    <Order>CP</Order>
+    <Consistory>7 December 2024</Consistory>
+    <Office>Archbishop of Belgrade</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>204</Rank>
+    <Name>Jaime Spengler OFM</Name>
+    <Country>Brazil</Country>
+    <Born>6 September 1960</Born>
+    <Order>CP</Order>
+    <Consistory>7 December 2024</Consistory>
+    <Office>Archbishop of Porto Alegre</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>205</Rank>
+    <Name>Ignace Bessi Dogbo</Name>
+    <Country>Ivory Coast</Country>
+    <Born>17 August 1961</Born>
+    <Order>CP</Order>
+    <Consistory>7 December 2024</Consistory>
+    <Office>Archbishop of Abidjan</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>206</Rank>
+    <Name>Jean-Paul Vesco OP</Name>
+    <Country>Algeria[r]</Country>
+    <Born>10 March 1962</Born>
+    <Order>CP</Order>
+    <Consistory>7 December 2024</Consistory>
+    <Office>Archbishop of Algiers</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>207</Rank>
+    <Name>Dominique Mathieu OFMConv</Name>
+    <Country>Iran[s]</Country>
+    <Born>13 June 1963</Born>
+    <Order>CP</Order>
+    <Consistory>7 December 2024</Consistory>
+    <Office>Archbishop of Tehran–Isfahan</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>208</Rank>
+    <Name>Roberto Repole</Name>
+    <Country>Italy</Country>
+    <Born>29 January 1967</Born>
+    <Order>CP</Order>
+    <Consistory>7 December 2024</Consistory>
+    <Office>Archbishop of Turin and Bishop of Susa</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>209</Rank>
+    <Name>Baldassare Reina</Name>
+    <Country>Italy</Country>
+    <Born>26 November 1970</Born>
+    <Order>CP</Order>
+    <Consistory>7 December 2024</Consistory>
+    <Office>Vicar General for Rome and Archpriest of the Papal Basilica of Saint John Lateran</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>210</Rank>
+    <Name>Frank Leo</Name>
+    <Country>Canada</Country>
+    <Born>30 June 1971</Born>
+    <Order>CP</Order>
+    <Consistory>7 December 2024</Consistory>
+    <Office>Archbishop of Toronto</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>211</Rank>
+    <Name>Mykola Bychok CSsR</Name>
+    <Country>Australia[t]</Country>
+    <Born>13 February 1980</Born>
+    <Order>CP</Order>
+    <Consistory>7 December 2024</Consistory>
+    <Office>Eparch of Saints Peter and Paul of Melbourne(Ukrainian Greek Church)</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>212</Rank>
+    <Name>Domenico Battaglia</Name>
+    <Country>Italy</Country>
+    <Born>20 January 1963</Born>
+    <Order>CP</Order>
+    <Consistory>7 December 2024</Consistory>
+    <Office>Archbishop of Naples</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>213</Rank>
+    <Name>Dominique Mamberti</Name>
+    <Country>France</Country>
+    <Born>7 March 1952</Born>
+    <Order>CD</Order>
+    <Consistory>14 February 2015</Consistory>
+    <Office>Prefect of the Supreme Tribunal of the Apostolic Signatura</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>214</Rank>
+    <Name>Mario Zenari</Name>
+    <Country>Italy</Country>
+    <Born>5 January 1946</Born>
+    <Order>CD</Order>
+    <Consistory>19 November 2016</Consistory>
+    <Office>Apostolic Nuncio to Syria</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>215</Rank>
+    <Name>Kevin Farrell</Name>
+    <Country>United States[u]</Country>
+    <Born>2 September 1947</Born>
+    <Order>CD</Order>
+    <Consistory>19 November 2016</Consistory>
+    <Office>Prefect of the Dicastery for the Laity, Family and Life</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>216</Rank>
+    <Name>Ernest Simoni</Name>
+    <Country>Albania</Country>
+    <Born>18 October 1928</Born>
+    <Order>CD</Order>
+    <Consistory>19 November 2016</Consistory>
+    <Office>Priest of the Archdiocese of Shkodër–Pult</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>217</Rank>
+    <Name>Luis Ladaria Ferrer SJ</Name>
+    <Country>Spain</Country>
+    <Born>19 April 1944</Born>
+    <Order>CD</Order>
+    <Consistory>28 June 2018</Consistory>
+    <Office>Prefect emeritus of the Dicastery for the Doctrine of the Faith</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>218</Rank>
+    <Name>Giovanni Angelo Becciu[w]</Name>
+    <Country>Italy</Country>
+    <Born>2 June 1948</Born>
+    <Order>CD</Order>
+    <Consistory>28 June 2018</Consistory>
+    <Office>Prefect emeritus of the Congregation for the Causes of Saints</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>219</Rank>
+    <Name>Konrad Krajewski</Name>
+    <Country>Poland</Country>
+    <Born>25 November 1963</Born>
+    <Order>CD</Order>
+    <Consistory>28 June 2018</Consistory>
+    <Office>Almoner of His Holiness</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>220</Rank>
+    <Name>Aquilino Bocos Merino CMF</Name>
+    <Country>Spain</Country>
+    <Born>17 May 1938</Born>
+    <Order>CD</Order>
+    <Consistory>28 June 2018</Consistory>
+    <Office>Superior General emeritus of the Missionary Sons of the Immaculate Heart of Mary</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>221</Rank>
+    <Name>José Tolentino de Mendonça</Name>
+    <Country>Portugal</Country>
+    <Born>15 December 1965</Born>
+    <Order>CD</Order>
+    <Consistory>5 October 2019</Consistory>
+    <Office>Prefect of the Dicastery for Culture and Education</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>222</Rank>
+    <Name>Michael Czerny SJ</Name>
+    <Country>Canada[x]</Country>
+    <Born>18 July 1946</Born>
+    <Order>CD</Order>
+    <Consistory>5 October 2019</Consistory>
+    <Office>Prefect of the Dicastery for Promoting Integral Human Development</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>223</Rank>
+    <Name>Michael Fitzgerald MAfr</Name>
+    <Country>United Kingdom</Country>
+    <Born>17 August 1937</Born>
+    <Order>CD</Order>
+    <Consistory>5 October 2019</Consistory>
+    <Office>Apostolic Nuncio emeritus to Egypt</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>224</Rank>
+    <Name>Mario Grech</Name>
+    <Country>Malta</Country>
+    <Born>20 February 1957</Born>
+    <Order>CD</Order>
+    <Consistory>28 November 2020</Consistory>
+    <Office>Secretary-General of the Synod of Bishops</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>225</Rank>
+    <Name>Marcello Semeraro</Name>
+    <Country>Italy</Country>
+    <Born>22 December 1947</Born>
+    <Order>CD</Order>
+    <Consistory>28 November 2020</Consistory>
+    <Office>Prefect of the Dicastery for the Causes of Saints</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>226</Rank>
+    <Name>Mauro Gambetti OFMConv</Name>
+    <Country>Italy</Country>
+    <Born>27 October 1965</Born>
+    <Order>CD</Order>
+    <Consistory>28 November 2020</Consistory>
+    <Office>Vicar General for Vatican City, Archpriest of the Papal Basilica of Saint Peter and President of the Fabric of Saint Peter</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>227</Rank>
+    <Name>Silvano Maria Tomasi CS</Name>
+    <Country>Italy</Country>
+    <Born>12 October 1940</Born>
+    <Order>CD</Order>
+    <Consistory>28 November 2020</Consistory>
+    <Office>Special Delegate to the Sovereign Military Order of Malta</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>228</Rank>
+    <Name>Raniero Cantalamessa OFMCap</Name>
+    <Country>Italy</Country>
+    <Born>22 July 1934</Born>
+    <Order>CD</Order>
+    <Consistory>28 November 2020</Consistory>
+    <Office>Preacher emeritus of the Papal Household</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>229</Rank>
+    <Name>Enrico Feroci</Name>
+    <Country>Italy</Country>
+    <Born>27 August 1940</Born>
+    <Order>CD</Order>
+    <Consistory>28 November 2020</Consistory>
+    <Office>Pastor of the Shrine of Our Lady of Divine Love in Castel di Leva, Rome</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>230</Rank>
+    <Name>Arthur Roche</Name>
+    <Country>United Kingdom</Country>
+    <Born>6 March 1950</Born>
+    <Order>CD</Order>
+    <Consistory>27 August 2022</Consistory>
+    <Office>Prefect of the Dicastery for Divine Worship and the Discipline of the Sacraments</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>231</Rank>
+    <Name>Lazarus You Heung-sik</Name>
+    <Country>South Korea</Country>
+    <Born>17 November 1951</Born>
+    <Order>CD</Order>
+    <Consistory>27 August 2022</Consistory>
+    <Office>Prefect of the Dicastery for the Clergy</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>232</Rank>
+    <Name>Fernando Vérgez Alzaga LC</Name>
+    <Country>Spain</Country>
+    <Born>1 March 1945</Born>
+    <Order>CD</Order>
+    <Consistory>27 August 2022</Consistory>
+    <Office>President emeritus of the Pontifical Commission for Vatican City State</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>233</Rank>
+    <Name>Gianfranco Ghirlanda SJ</Name>
+    <Country>Italy</Country>
+    <Born>5 July 1942</Born>
+    <Order>CD</Order>
+    <Consistory>27 August 2022</Consistory>
+    <Office>Patron of the Sovereign Military Order of Malta</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>234</Rank>
+    <Name>Fortunato Frezza</Name>
+    <Country>Italy</Country>
+    <Born>6 February 1942</Born>
+    <Order>CD</Order>
+    <Consistory>27 August 2022</Consistory>
+    <Office>Canon of the Chapter of the Papal Basilica of Saint Peter</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>235</Rank>
+    <Name>Claudio Gugerotti</Name>
+    <Country>Italy</Country>
+    <Born>7 October 1955</Born>
+    <Order>CD</Order>
+    <Consistory>30 September 2023</Consistory>
+    <Office>Prefect of the Dicastery for the Eastern Churches</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>236</Rank>
+    <Name>Víctor Manuel Fernández</Name>
+    <Country>Argentina</Country>
+    <Born>18 July 1962</Born>
+    <Order>CD</Order>
+    <Consistory>30 September 2023</Consistory>
+    <Office>Prefect of the Dicastery for the Doctrine of the Faith</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>237</Rank>
+    <Name>Emil Paul Tscherrig</Name>
+    <Country>Switzerland</Country>
+    <Born>3 February 1947</Born>
+    <Order>CD</Order>
+    <Consistory>30 September 2023</Consistory>
+    <Office>Apostolic Nuncio emeritus to Italy and San Marino</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>238</Rank>
+    <Name>Christophe Pierre</Name>
+    <Country>France</Country>
+    <Born>30 January 1946</Born>
+    <Order>CD</Order>
+    <Consistory>30 September 2023</Consistory>
+    <Office>Apostolic Nuncio to the United States</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>239</Rank>
+    <Name>Ángel Fernández Artime SDB</Name>
+    <Country>Spain</Country>
+    <Born>21 August 1960</Born>
+    <Order>CD</Order>
+    <Consistory>30 September 2023</Consistory>
+    <Office>Pro-Prefect of the Dicastery for Institutes of Consecrated Life and Societies of Apostolic Life</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>240</Rank>
+    <Name>Agostino Marchetto</Name>
+    <Country>Italy</Country>
+    <Born>28 August 1940</Born>
+    <Order>CD</Order>
+    <Consistory>30 September 2023</Consistory>
+    <Office>Secretary emeritus of the Pontifical Council for the Pastoral Care of Migrants and Itinerant People</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>241</Rank>
+    <Name>Angelo Acerbi</Name>
+    <Country>Italy</Country>
+    <Born>23 September 1925</Born>
+    <Order>CD</Order>
+    <Consistory>7 December 2024</Consistory>
+    <Office>Apostolic Nuncio emeritus</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>242</Rank>
+    <Name>Rolandas Makrickas</Name>
+    <Country>Lithuania</Country>
+    <Born>31 January 1972</Born>
+    <Order>CD</Order>
+    <Consistory>7 December 2024</Consistory>
+    <Office>Archpriest of the Papal Basilica of Saint Mary Major</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>243</Rank>
+    <Name>Timothy Radcliffe OP</Name>
+    <Country>United Kingdom</Country>
+    <Born>22 August 1945</Born>
+    <Order>CD</Order>
+    <Consistory>7 December 2024</Consistory>
+    <Office>Master emeritus of the Order of Preachers</Office>
+    <PapalConclaveEligible>False</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>244</Rank>
+    <Name>Fabio Baggio CS</Name>
+    <Country>Italy</Country>
+    <Born>15 January 1965</Born>
+    <Order>CD</Order>
+    <Consistory>7 December 2024</Consistory>
+    <Office>Undersecretary of the Migrants and Refugees Section of the Dicastery for Promoting Integral Human Development</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+  <Cardinal>
+    <Rank>245</Rank>
+    <Name>George Koovakad</Name>
+    <Country>India</Country>
+    <Born>11 August 1973</Born>
+    <Order>CD</Order>
+    <Consistory>7 December 2024</Consistory>
+    <Office>Prefect of the Dicastery for Interreligious Dialogue</Office>
+    <PapalConclaveEligible>True</PapalConclaveEligible>
+    <CreatedCardinalBy>Pope Francis</CreatedCardinalBy>
+  </Cardinal>
+</Cardinals>
