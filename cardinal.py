@@ -81,7 +81,7 @@ class Cardinals:
             )
 
             cardinals.append(cardinal)
-        return json.dumps({"Cardinals": cardinals})
+        return json.dumps({"Cardinals": cardinals}, ensure_ascii=False)
 
 
 if __name__ == "__main__":
