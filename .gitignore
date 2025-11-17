@@ -1,2 +1,4 @@
 .venv/
-*.json
+venv/
+cardinals-previous.json
+cardinals-new.json

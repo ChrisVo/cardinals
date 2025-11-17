@@ -1,37 +1,181 @@
-name: "Create new JSON file"
+name: "Update Cardinals Data"
 
-# Run every Friday at 12 AM Pacific Time
-# or push on main branch
+# Run every day at midnight UTC
 on:
   schedule:
-    - cron: '0 0 * * 5'
+    - cron: '0 0 * * *'
   push:
     branches:
       - main
+  workflow_dispatch:
 
 jobs:
-  create-new-json-file:
+  update-cardinals:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Set up Python 3.9
-        uses: actions/setup-python@v2
+      - uses: actions/checkout@v4
         with:
-          python-version: 3.9
+          fetch-depth: 0
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      - name: Create new JSON file
-        run: |
-          python cardinal.py|jq > cardinals.json
-      - name: Upload json file to Github releases
-        uses: svenstaro/upload-release-action@v2
-        with:
-          repo_token: ${{ secrets.GITHUB_TOKEN }}
-          file: cardinals.json
-          tag: ${{ github.ref }}
-          overwrite: true
-          file_glob: true
 
-# Path: .github/workflows/main.yml
+      - name: Download previous cardinals.json from latest release
+        id: download-previous
+        continue-on-error: true
+        run: |
+          gh release download --pattern "cardinals.json" --output cardinals-previous.json || echo "No previous release found"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate new cardinals data
+        run: |
+          python cardinal.py > cardinals-new.json
+
+      - name: Detect changes and generate changelog
+        id: detect-changes
+        run: |
+          python3 << 'EOF'
+          import json
+          import os
+          from datetime import datetime
+
+          # Load data
+          try:
+              with open('cardinals-previous.json', 'r') as f:
+                  previous_data = json.load(f)
+              previous_cardinals = {c['Rank']: c for c in previous_data.get('Cardinals', [])}
+          except FileNotFoundError:
+              previous_cardinals = {}
+              print("No previous data found - this is the first run")
+
+          with open('cardinals-new.json', 'r') as f:
+              new_data = json.load(f)
+          new_cardinals = {c['Rank']: c for c in new_data['Cardinals']}
+
+          # Detect changes
+          changes = []
+          added_cardinals = []
+          removed_cardinals = []
+          modified_cardinals = []
+
+          # Find new cardinals
+          for rank, cardinal in new_cardinals.items():
+              if rank not in previous_cardinals:
+                  added_cardinals.append(cardinal)
+              elif cardinal != previous_cardinals[rank]:
+                  modified_cardinals.append({
+                      'old': previous_cardinals[rank],
+                      'new': cardinal
+                  })
+
+          # Find removed cardinals
+          for rank, cardinal in previous_cardinals.items():
+              if rank not in new_cardinals:
+                  removed_cardinals.append(cardinal)
+
+          # Generate changelog
+          changelog_entries = []
+          has_changes = False
+
+          if added_cardinals or removed_cardinals or modified_cardinals:
+              has_changes = True
+              date_str = datetime.utcnow().strftime('%Y-%m-%d')
+
+              changelog_entries.append(f"## Changes detected on {date_str}\n")
+
+              if added_cardinals:
+                  changelog_entries.append(f"### New Cardinals ({len(added_cardinals)})")
+                  for c in added_cardinals:
+                      changelog_entries.append(f"- **{c['Name']}** ({c['Country']}) - {c['Office']}")
+                  changelog_entries.append("")
+
+              if removed_cardinals:
+                  changelog_entries.append(f"### Removed Cardinals ({len(removed_cardinals)})")
+                  for c in removed_cardinals:
+                      changelog_entries.append(f"- **{c['Name']}** ({c['Country']})")
+                  changelog_entries.append("")
+
+              if modified_cardinals:
+                  changelog_entries.append(f"### Modified Cardinals ({len(modified_cardinals)})")
+                  for m in modified_cardinals:
+                      old, new = m['old'], m['new']
+                      changelog_entries.append(f"- **{new['Name']}**")
+                      for key in new:
+                          if old.get(key) != new[key] and key not in ['Rank']:
+                              changelog_entries.append(f"  - {key}: `{old.get(key, 'N/A')}` → `{new[key]}`")
+                  changelog_entries.append("")
+
+          # Write changelog
+          changelog_content = "\n".join(changelog_entries)
+
+          if has_changes:
+              # Prepend to existing changelog
+              try:
+                  with open('CHANGELOG.md', 'r') as f:
+                      existing_changelog = f.read()
+              except FileNotFoundError:
+                  existing_changelog = "# Cardinals Data Changelog\n\nThis file tracks changes to the Catholic Cardinals data over time.\n\n"
+
+              with open('CHANGELOG.md', 'w') as f:
+                  f.write("# Cardinals Data Changelog\n\n")
+                  f.write("This file tracks changes to the Catholic Cardinals data over time.\n\n")
+                  f.write(changelog_content)
+                  if "# Cardinals Data Changelog" in existing_changelog:
+                      # Strip the header from existing changelog
+                      existing_changelog = existing_changelog.split('\n\n', 2)[-1]
+                  f.write(existing_changelog)
+
+              print(f"Changes detected: {len(added_cardinals)} added, {len(removed_cardinals)} removed, {len(modified_cardinals)} modified")
+
+              # Set output for GitHub Actions
+              with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+                  f.write(f"has_changes=true\n")
+                  f.write(f"change_summary=Added: {len(added_cardinals)}, Removed: {len(removed_cardinals)}, Modified: {len(modified_cardinals)}\n")
+          else:
+              print("No changes detected")
+              with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+                  f.write(f"has_changes=false\n")
+
+          # Always update the main file
+          import shutil
+          shutil.copy('cardinals-new.json', 'cardinals.json')
+          EOF
+
+      - name: Commit and push changes
+        if: steps.detect-changes.outputs.has_changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add cardinals.json CHANGELOG.md
+          git diff --staged --quiet || git commit -m "Update cardinals data - ${{ steps.detect-changes.outputs.change_summary }}"
+          git push
+
+      - name: Create release with updated data
+        if: steps.detect-changes.outputs.has_changes == 'true'
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: v${{ github.run_number }}-${{ github.run_id }}
+          name: Cardinals Data Update - ${{ steps.detect-changes.outputs.change_summary }}
+          body: |
+            Automated update of Catholic Cardinals data.
+
+            ${{ steps.detect-changes.outputs.change_summary }}
+
+            See [CHANGELOG.md](https://github.com/${{ github.repository }}/blob/main/CHANGELOG.md) for details.
+          files: |
+            cardinals.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Report no changes
+        if: steps.detect-changes.outputs.has_changes == 'false'
+        run: |
+          echo "No changes detected in cardinal data. Skipping commit and release."
