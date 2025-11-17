@@ -2,7 +2,7 @@ import re
 import requests
 import json
 import bs4
-import wikipedia
+import unicodedata
 
 
 class Cardinals:
@@ -11,23 +11,23 @@ class Cardinals:
         Get a list of cardinals from Wikipedia
         """
         headers = {
-            "accept": 'text/html; charset=utf-8; profile="https://www.mediawiki.org/wiki/Specs/HTML/2.1.0"',
+            "User-Agent": "CardinalsScraper/1.0 (Educational/Research Purpose)",
         }
         response = requests.get(
-            "https://en.wikipedia.org/api/rest_v1/page/html/List_of_current_cardinals",
+            "https://en.wikipedia.org/wiki/List_of_current_cardinals",
             headers=headers,
         )
         html_dump = response.content
 
         # Use BeautifulSoup
         soup = bs4.BeautifulSoup(html_dump, "html.parser")
-        # Get table
-        table = soup.find("table")
+        # Get table (first wikitable on the page)
+        table = soup.find("table", {"class": "wikitable"})
 
         # Get headers from table
-        headers = []
+        table_headers = []
         for header in table.find_all("th"):
-            headers.append(header.text)
+            table_headers.append(header.text.strip())
 
         # Grab rows of data
         rows = table.find_all("tr")
@@ -43,7 +43,17 @@ class Cardinals:
 
             cardinal = {}
             for i, cell in enumerate(cells):
-                cardinal[headers[i]] = cell.text
+                # Normalize text: clean up special characters
+                text = cell.text.strip()
+                # Normalize to NFC to keep accented characters composed
+                text = unicodedata.normalize('NFC', text)
+                # Replace various unicode spaces with regular space
+                text = re.sub(r'[\u00a0\u2000-\u200b\u202f\u205f\u3000]', ' ', text)
+                # Remove zero-width characters
+                text = re.sub(r'[\u200b-\u200d\ufeff]', '', text)
+                # Collapse multiple spaces into one
+                text = re.sub(r'\s+', ' ', text).strip()
+                cardinal[table_headers[i]] = text
 
             # Remove the Ref. key from the dictionary
             cardinal.pop("Ref.", None)
@@ -58,16 +68,8 @@ class Cardinals:
             # If name has an asterisk, remove it
             if "*" in cardinal["Name"]:
                 cardinal["Name"] = cardinal["Name"].replace("*", "")
-            # Search for image
-            # If image is found, add it to the dictionary
-            try:
-                cardinal["Image"] = wikipedia.page(cardinal["Name"]).images[1]
-            except wikipedia.exceptions.DisambiguationError:
-                cardinal["Image"] = ""
-            except wikipedia.exceptions.PageError:
-                cardinal["Image"] = ""
             # Remove (age) from DateOfBirth
-            cardinal["Born"] = cardinal["Born"].split("(")[0]
+            cardinal["Born"] = cardinal["Born"].split("(")[0].strip()
             cardinal["CreatedCardinalBy"] = "Pope " + re.sub(
                 r"\[.*?\]", "", re.split(regex, cardinal["Consistory"])[2]
             )
