@@ -2,6 +2,1481 @@
 
 This file tracks changes to the Catholic Cardinals data over time.
 
+## Changes detected on 2025-11-17
+
+### New Cardinals (4)
+- **Rolandas Makrickas** (Lithuania) - Archpriest of the Papal Basilica of Saint Mary Major
+- **Timothy Radcliffe OP** (United Kingdom) - Master emeritus of the Order of Preachers
+- **Fabio Baggio CS** (Italy) - Undersecretary of the Migrants and Refugees Section of the Dicastery for Promoting Integral Human Development
+- **George Koovakad** (India) - Prefect of the Dicastery for Interreligious Dialogue
+
+### Modified Cardinals (241)
+- **Giovanni Battista Re**
+  - Office: `Prefect emeritus of the Congregation for Bishops` → `Prefect emeritus of the Congregation for Bishops (Dean)`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Leonardo Sandri**
+  - Office: `Prefect emeritus of the Dicastery for the Eastern Churches` → `Prefect emeritus of the Dicastery for the Eastern Churches (Vice Dean)`
+  - PapalConclaveEligible: `True` → `False`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Francis Arinze**
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Tarcisio Bertone SDB**
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **José Saraiva Martins CMF**
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Pietro Parolin**
+- **Marc Ouellet PSS**
+  - PapalConclaveEligible: `True` → `False`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Fernando Filoni**
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Beniamino Stella**
+- **Luis Antonio Tagle**
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Bechara Boutros al-Rahi OMM**
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Louis Raphaël I Sako**
+  - Name: `Louis Raphaël I Sako` → `Louis Raphaël I Sako`
+- **Michael Michai Kitbunchu**
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Paul Poupard**
+  - Name: `Alexandre do Nascimento` → `Paul Poupard`
+  - Country: `Angola` → `France`
+  - Born: `1 March 1925` → `30 August 1930`
+  - Consistory: `2 February 1983` → `25 May 1985`
+  - Office: `Archbishop emeritus of Luanda` → `President emeritus of the Pontifical Councils for Culture and for Interreligious Dialogue`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Friedrich Wetter**
+  - Name: `Thomas Stafford Williams` → `Friedrich Wetter`
+  - Country: `New Zealand` → `Germany`
+  - Born: `20 March 1930` → `20 February 1928`
+  - Consistory: `2 February 1983` → `25 May 1985`
+  - Office: `Archbishop emeritus of Wellington` → `Archbishop emeritus of Munich and Freising`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Nicolás de Jesús López Rodríguez**
+  - Name: `Paul Poupard` → `Nicolás de Jesús López Rodríguez`
+  - Country: `France` → `Dominican Republic`
+  - Born: `30 August 1930` → `31 October 1936`
+  - Consistory: `25 May 1985` → `28 June 1991`
+  - Office: `President emeritus of the Pontifical Councils for Culture and for Interreligious Dialogue` → `Archbishop emeritus of Santo Domingo`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Roger Mahony**
+  - Name: `Friedrich Wetter` → `Roger Mahony`
+  - Country: `Germany` → `United States`
+  - Born: `20 February 1928` → `27 February 1936`
+  - Consistory: `25 May 1985` → `28 June 1991`
+  - Office: `Archbishop emeritus of Munich and Freising` → `Archbishop emeritus of Los Angeles`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Camillo Ruini**
+  - Name: `Nicolás de Jesús López Rodríguez` → `Camillo Ruini`
+  - Country: `Dominican Republic` → `Italy`
+  - Born: `31 October 1936` → `19 February 1931`
+  - Office: `Archbishop emeritus of Santo Domingo` → `Vicar General emeritus for Rome and Archpriest emeritus of the Papal Basilica of Saint John Lateran`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Julius Darmaatmadja SJ**
+  - Name: `Roger Mahony` → `Julius Darmaatmadja SJ`
+  - Country: `United States` → `Indonesia`
+  - Born: `27 February 1936` → `20 December 1934`
+  - Consistory: `28 June 1991` → `26 November 1994`
+  - Office: `Archbishop emeritus of Los Angeles` → `Archbishop emeritus of Jakarta`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Emmanuel Wamala**
+  - Name: `Camillo Ruini` → `Emmanuel Wamala`
+  - Country: `Italy` → `Uganda`
+  - Born: `19 February 1931` → `15 December 1926`
+  - Consistory: `28 June 1991` → `26 November 1994`
+  - Office: `Vicar General emeritus for Rome and Archpriest emeritus of the Papal Basilica of Saint John Lateran` → `Archbishop emeritus of Kampala`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Adam Maida**
+  - Name: `Julius Darmaatmadja SJ` → `Adam Maida`
+  - Country: `Indonesia` → `United States`
+  - Born: `20 December 1934` → `18 March 1930`
+  - Office: `Archbishop emeritus of Jakarta` → `Archbishop emeritus of Detroit`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Vinko Puljić**
+  - Name: `Emmanuel Wamala` → `Vinko Puljić`
+  - Country: `Uganda` → `Bosnia and Herzegovina`
+  - Born: `15 December 1926` → `8 September 1945`
+  - Office: `Archbishop emeritus of Kampala` → `Archbishop emeritus of Vrhbosna`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Juan Sandoval Íñiguez**
+  - Name: `Adam Maida` → `Juan Sandoval Íñiguez`
+  - Country: `United States` → `Mexico`
+  - Born: `18 March 1930` → `28 March 1933`
+  - Office: `Archbishop emeritus of Detroit` → `Archbishop emeritus of Guadalajara`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **James Stafford**
+  - Name: `Vinko Puljić` → `James Stafford`
+  - Country: `Bosnia and Herzegovina` → `United States`
+  - Born: `8 September 1945` → `26 July 1932`
+  - Consistory: `26 November 1994` → `21 February 1998`
+  - Office: `Archbishop emeritus of Vrhbosna` → `Major Penitentiary emeritus`
+  - PapalConclaveEligible: `True` → `False`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Salvatore De Giorgi**
+  - Name: `Juan Sandoval Íñiguez` → `Salvatore De Giorgi`
+  - Country: `Mexico` → `Italy`
+  - Born: `28 March 1933` → `6 September 1930`
+  - Consistory: `26 November 1994` → `21 February 1998`
+  - Office: `Archbishop emeritus of Guadalajara` → `Archbishop emeritus of Palermo`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Antonio María Rouco Varela**
+  - Name: `James Stafford` → `Antonio María Rouco Varela`
+  - Country: `United States` → `Spain`
+  - Born: `26 July 1932` → `20 August 1936`
+  - Office: `Major Penitentiary emeritus` → `Archbishop emeritus of Madrid`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Polycarp Pengo**
+  - Name: `Salvatore De Giorgi` → `Polycarp Pengo`
+  - Country: `Italy` → `Tanzania`
+  - Born: `6 September 1930` → `5 August 1944`
+  - Office: `Archbishop emeritus of Palermo` → `Archbishop emeritus of Dar-es-Salaam`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Christoph Schönborn OP**
+  - Name: `Antonio María Rouco Varela` → `Christoph Schönborn OP`
+  - Country: `Spain` → `Austria[d]`
+  - Born: `20 August 1936` → `22 January 1945`
+  - Office: `Archbishop emeritus of Madrid` → `Archbishop emeritus of Vienna`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Norberto Rivera Carrera**
+  - Name: `Polycarp Pengo` → `Norberto Rivera Carrera`
+  - Country: `Tanzania` → `Mexico`
+  - Born: `5 August 1944` → `6 June 1942`
+  - Office: `Archbishop emeritus of Dar-es-Salaam` → `Archbishop emeritus of Mexico`
+  - PapalConclaveEligible: `True` → `False`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Jānis Pujats**
+  - Name: `Christoph Schönborn OP` → `Jānis Pujats`
+  - Country: `Austria` → `Latvia`
+  - Born: `22 January 1945` → `14 November 1930`
+  - Office: `Archbishop of Vienna` → `Archbishop emeritus of Riga`
+  - PapalConclaveEligible: `True` → `False`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Crescenzio Sepe**
+  - Name: `Norberto Rivera Carrera` → `Crescenzio Sepe`
+  - Country: `Mexico` → `Italy`
+  - Born: `6 June 1942` → `2 June 1943`
+  - Consistory: `21 February 1998` → `21 February 2001`
+  - Office: `Archbishop emeritus of Mexico` → `Archbishop emeritus of Naples`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Walter Kasper**
+  - Name: `Jānis Pujats` → `Walter Kasper`
+  - Country: `Latvia` → `Germany`
+  - Born: `14 November 1930` → `5 March 1933`
+  - Consistory: `21 February 1998` → `21 February 2001`
+  - Office: `Archbishop emeritus of Riga` → `President emeritus of the Pontifical Council for Promoting Christian Unity`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Audrys Bačkis**
+  - Name: `Sergio Sebastiani` → `Audrys Bačkis`
+  - Country: `Italy` → `Lithuania`
+  - Born: `11 April 1931` → `1 February 1937`
+  - Office: `President emeritus of the Prefecture for the Economic Affairs of the Holy See` → `Archbishop emeritus of Vilnius`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Francisco Javier Errázuriz Ossa ISch**
+  - Name: `Crescenzio Sepe` → `Francisco Javier Errázuriz Ossa ISch`
+  - Country: `Italy` → `Chile`
+  - Born: `2 June 1943` → `5 September 1933`
+  - Office: `Archbishop emeritus of Naples` → `Archbishop emeritus of Santiago de Chile`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Wilfrid Napier OFM**
+  - Name: `Walter Kasper` → `Wilfrid Napier OFM`
+  - Country: `Germany` → `South Africa`
+  - Born: `5 March 1933` → `8 March 1941`
+  - Office: `President emeritus of the Pontifical Council for Promoting Christian Unity` → `Archbishop emeritus of Durban`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Óscar Rodríguez Maradiaga SDB**
+  - Name: `Pedro Rubiano Sáenz` → `Óscar Rodríguez Maradiaga SDB`
+  - Country: `Colombia` → `Honduras`
+  - Born: `13 September 1932` → `29 December 1942`
+  - Office: `Archbishop emeritus of Bogotá` → `Archbishop emeritus of Tegucigalpa and Coordinator emeritus of the Council of Cardinals`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Juan Luis Cipriani Thorne**
+  - Name: `Audrys Bačkis` → `Juan Luis Cipriani Thorne`
+  - Country: `Lithuania` → `Peru`
+  - Born: `1 February 1937` → `28 December 1943`
+  - Office: `Archbishop emeritus of Vilnius` → `Archbishop emeritus of Lima`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Julián Herranz Casado**
+  - Name: `Francisco Javier Errázuriz Ossa ISch` → `Julián Herranz Casado`
+  - Country: `Chile` → `Spain`
+  - Born: `5 September 1933` → `31 March 1930`
+  - Consistory: `21 February 2001` → `21 October 2003`
+  - Office: `Archbishop emeritus of Santiago de Chile` → `President emeritus of the Pontifical Council for Legislative Texts`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Angelo Scola**
+  - Name: `Wilfrid Napier OFM` → `Angelo Scola`
+  - Country: `South Africa` → `Italy`
+  - Born: `8 March 1941` → `7 November 1941`
+  - Consistory: `21 February 2001` → `21 October 2003`
+  - Office: `Archbishop emeritus of Durban` → `Archbishop emeritus of Milan`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Anthony Olubunmi Okogie**
+  - Name: `Óscar Rodríguez Maradiaga SDB` → `Anthony Olubunmi Okogie`
+  - Country: `Honduras` → `Nigeria`
+  - Born: `29 December 1942` → `16 June 1936`
+  - Consistory: `21 February 2001` → `21 October 2003`
+  - Office: `Archbishop emeritus of Tegucigalpa and Coordinator emeritus of the Council of Cardinals` → `Archbishop emeritus of Lagos`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Gabriel Zubeir Wako**
+  - Name: `Juan Luis Cipriani Thorne` → `Gabriel Zubeir Wako`
+  - Country: `Peru` → `Sudan`
+  - Born: `28 December 1943` → `27 February 1941`
+  - Consistory: `21 February 2001` → `21 October 2003`
+  - Office: `Archbishop emeritus of Lima` → `Archbishop emeritus of Khartoum`
+  - PapalConclaveEligible: `True` → `False`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Justin Rigali**
+  - Name: `Julián Herranz Casado` → `Justin Rigali`
+  - Country: `Spain` → `United States`
+  - Born: `31 March 1930` → `19 April 1935`
+  - Office: `President emeritus of the Pontifical Council for Legislative Texts` → `Archbishop emeritus of Philadelphia`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Ennio Antonelli**
+  - Name: `Angelo Scola` → `Ennio Antonelli`
+  - Born: `7 November 1941` → `18 November 1936`
+  - Office: `Archbishop emeritus of Milan` → `President emeritus of the Pontifical Council for the Family`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Peter Turkson**
+  - Name: `Anthony Olubunmi Okogie` → `Peter Turkson`
+  - Country: `Nigeria` → `Ghana`
+  - Born: `16 June 1936` → `11 October 1948`
+  - Office: `Archbishop emeritus of Lagos` → `Chancellor of the Pontifical Academy of Sciences and the Pontifical Academy of Social Sciences`
+  - PapalConclaveEligible: `False` → `True`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Josip Bozanić**
+  - Name: `Gabriel Zubeir Wako` → `Josip Bozanić`
+  - Country: `Sudan` → `Croatia`
+  - Born: `27 February 1941` → `20 March 1949`
+  - Office: `Archbishop emeritus of Khartoum` → `Archbishop emeritus of Zagreb`
+  - PapalConclaveEligible: `False` → `True`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Jean-Baptiste Phạm Minh Mẫn**
+  - Name: `Justin Rigali` → `Jean-Baptiste Phạm Minh Mẫn`
+  - Country: `United States` → `Vietnam`
+  - Born: `19 April 1935` → `5 March 1934`
+  - Office: `Archbishop emeritus of Philadelphia` → `Archbishop emeritus of Ho Chi Minh City`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Philippe Barbarin**
+  - Name: `Ennio Antonelli` → `Philippe Barbarin`
+  - Country: `Italy` → `France`
+  - Born: `18 November 1936` → `17 October 1950`
+  - Office: `President emeritus of the Pontifical Council for the Family` → `Archbishop emeritus of Lyon`
+  - PapalConclaveEligible: `False` → `True`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Péter Erdő**
+  - Name: `Peter Turkson` → `Péter Erdő`
+  - Country: `Ghana` → `Hungary`
+  - Born: `11 October 1948` → `25 June 1952`
+  - Office: `Chancellor of the Pontifical Academy of Sciences and the Pontifical Academy of Social Sciences` → `Archbishop of Esztergom–Budapest`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope John Paul II`
+- **Franc Rodé CM**
+  - Name: `Josip Bozanić` → `Franc Rodé CM`
+  - Country: `Croatia` → `Slovenia`
+  - Born: `20 March 1949` → `23 September 1934`
+  - Consistory: `21 October 2003` → `24 March 2006`
+  - Office: `Archbishop emeritus of Zagreb` → `Prefect emeritus of the Congregation for Institutes of Consecrated Life and Societies of Apostolic Life`
+  - PapalConclaveEligible: `True` → `False`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope Benedict XVI`
+- **Agostino Vallini**
+  - Name: `Jean-Baptiste Phạm Minh Mẫn` → `Agostino Vallini`
+  - Country: `Vietnam` → `Italy`
+  - Born: `5 March 1934` → `17 April 1940`
+  - Consistory: `21 October 2003` → `24 March 2006`
+  - Office: `Archbishop emeritus of Ho Chi Minh City` → `Pontifical Legate emeritus for the Basilicas of Saint Francis and Saint Mary of the Angels in Assisi`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope Benedict XVI`
+- **Gaudencio Borbon Rosales**
+  - Name: `Philippe Barbarin` → `Gaudencio Borbon Rosales`
+  - Country: `France` → `Philippines`
+  - Born: `17 October 1950` → `10 August 1932`
+  - Consistory: `21 October 2003` → `24 March 2006`
+  - Office: `Archbishop emeritus of Lyon` → `Archbishop emeritus of Manila`
+  - PapalConclaveEligible: `True` → `False`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope Benedict XVI`
+- **Jean-Pierre Ricard**
+  - Name: `Péter Erdő` → `Jean-Pierre Ricard`
+  - Country: `Hungary` → `France`
+  - Born: `25 June 1952` → `25 September 1944`
+  - Consistory: `21 October 2003` → `24 March 2006`
+  - Office: `Archbishop of Esztergom–Budapest` → `Archbishop emeritus of Bordeaux`
+  - PapalConclaveEligible: `True` → `False`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope Benedict XVI`
+- **Antonio Cañizares Llovera**
+  - Name: `Franc Rodé CM` → `Antonio Cañizares Llovera`
+  - Country: `Slovenia` → `Spain`
+  - Born: `23 September 1934` → `15 October 1945`
+  - Office: `Prefect emeritus of the Congregation for Institutes of Consecrated Life and Societies of Apostolic Life` → `Archbishop emeritus of Valencia`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Seán Patrick O'Malley OFMCap**
+  - Name: `Agostino Vallini` → `Seán Patrick O'Malley OFMCap`
+  - Country: `Italy` → `United States`
+  - Born: `17 April 1940` → `29 June 1944`
+  - Office: `Pontifical Legate for the Basilicas of Saint Francis and Saint Mary of the Angels in Assisi` → `Archbishop emeritus of Boston and President emeritus of the Pontifical Commission for the Protection of Minors`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Stanisław Dziwisz**
+  - Name: `Gaudencio Borbon Rosales` → `Stanisław Dziwisz`
+  - Country: `Philippines` → `Poland`
+  - Born: `10 August 1932` → `27 April 1939`
+  - Office: `Archbishop emeritus of Manila` → `Archbishop emeritus of Kraków`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Joseph Zen Ze-kiun SDB**
+  - Name: `Jean-Pierre Ricard` → `Joseph Zen Ze-kiun SDB`
+  - Country: `France` → `China(Hong Kong)[f]`
+  - Born: `25 September 1944` → `13 January 1932`
+  - Office: `Archbishop emeritus of Bordeaux` → `Bishop emeritus of Hong Kong`
+  - PapalConclaveEligible: `True` → `False`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Giovanni Lajolo**
+  - Name: `Antonio Cañizares Llovera` → `Giovanni Lajolo`
+  - Country: `Spain` → `Italy`
+  - Born: `15 October 1945` → `3 January 1935`
+  - Consistory: `24 March 2006` → `24 November 2007`
+  - Office: `Archbishop emeritus of Valencia` → `President emeritus of the Pontifical Commission for Vatican City State`
+  - PapalConclaveEligible: `True` → `False`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Angelo Comastri**
+  - Name: `Seán Patrick O'Malley OFMCap` → `Angelo Comastri`
+  - Country: `United States` → `Italy`
+  - Born: `29 June 1944` → `17 September 1943`
+  - Consistory: `24 March 2006` → `24 November 2007`
+  - Office: `Archbishop of Boston and President of the Pontifical Commission for the Protection of Minors` → `Vicar General emeritus for Vatican City, Archpriest emeritus of the Papal Basilica of Saint Peter and President emeritus of the Fabric of Saint Peter`
+  - PapalConclaveEligible: `True` → `False`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Stanisław Ryłko**
+  - Name: `Stanisław Dziwisz` → `Stanisław Ryłko`
+  - Born: `27 April 1939` → `4 July 1945`
+  - Consistory: `24 March 2006` → `24 November 2007`
+  - Office: `Archbishop emeritus of Kraków` → `Archpriest emeritus of the Papal Basilica of Saint Mary Major`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Raffaele Farina SDB**
+  - Name: `Joseph Zen Ze-kiun SDB` → `Raffaele Farina SDB`
+  - Country: `China(Hong Kong)[lower-alpha 4]` → `Italy`
+  - Born: `13 January 1932` → `24 September 1933`
+  - Consistory: `24 March 2006` → `24 November 2007`
+  - Office: `Bishop emeritus of Hong Kong` → `Archivist and Librarian emeritus of the Holy Roman Church`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Seán Brady**
+  - Name: `Giovanni Lajolo` → `Seán Brady`
+  - Country: `Italy` → `Ireland[g]`
+  - Born: `3 January 1935` → `16 August 1939`
+  - Office: `President emeritus of the Pontifical Commission for Vatican City State` → `Archbishop emeritus of Armagh`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Lluís Martínez i Sistach**
+  - Name: `Paul Josef Cordes` → `Lluís Martínez i Sistach`
+  - Country: `Germany` → `Spain`
+  - Born: `5 September 1934` → `29 April 1937`
+  - Office: `President emeritus of the Pontifical Council Cor Unum` → `Archbishop emeritus of Barcelona`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Angelo Bagnasco**
+  - Name: `Angelo Comastri` → `Angelo Bagnasco`
+  - Born: `17 September 1943` → `14 January 1943`
+  - Office: `Vicar General emeritus for Vatican City, Archpriest emeritus of the Papal Basilica of Saint Peter and President emeritus of the Fabric of Saint Peter` → `Archbishop emeritus of Genoa`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Théodore-Adrien Sarr**
+  - Name: `Stanisław Ryłko` → `Théodore-Adrien Sarr`
+  - Country: `Poland` → `Senegal`
+  - Born: `4 July 1945` → `28 November 1936`
+  - Office: `Archpriest of the Papal Basilica of Saint Mary Major` → `Archbishop emeritus of Dakar`
+  - PapalConclaveEligible: `True` → `False`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Oswald Gracias**
+  - Name: `Raffaele Farina SDB` → `Oswald Gracias`
+  - Country: `Italy` → `India`
+  - Born: `24 September 1933` → `24 December 1944`
+  - Office: `Archivist and Librarian emeritus of the Holy Roman Church` → `Archbishop emeritus of Bombay`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Francisco Robles Ortega**
+  - Name: `Seán Brady` → `Francisco Robles Ortega`
+  - Country: `Ireland[lower-alpha 5]` → `Mexico`
+  - Born: `16 August 1939` → `2 March 1949`
+  - Office: `Archbishop emeritus of Armagh` → `Archbishop of Guadalajara`
+  - PapalConclaveEligible: `False` → `True`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Daniel DiNardo**
+  - Name: `Lluís Martínez i Sistach` → `Daniel DiNardo`
+  - Country: `Spain` → `United States`
+  - Born: `29 April 1937` → `23 May 1949`
+  - Office: `Archbishop emeritus of Barcelona` → `Archbishop emeritus of Galveston–Houston`
+  - PapalConclaveEligible: `False` → `True`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Odilo Scherer**
+  - Name: `André Vingt-Trois` → `Odilo Scherer`
+  - Country: `France` → `Brazil`
+  - Born: `7 November 1942` → `21 September 1949`
+  - Office: `Archbishop emeritus of Paris` → `Archbishop of São Paulo`
+  - PapalConclaveEligible: `False` → `True`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **John Njue**
+  - Name: `Angelo Bagnasco` → `John Njue`
+  - Country: `Italy` → `Kenya`
+  - Born: `14 January 1943` → `1 January 1946[h]`
+  - Office: `Archbishop emeritus of Genoa` → `Archbishop emeritus of Nairobi`
+  - PapalConclaveEligible: `False` → `True`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Robert Sarah**
+  - Name: `Théodore-Adrien Sarr` → `Robert Sarah`
+  - Country: `Senegal` → `Guinea`
+  - Born: `28 November 1936` → `15 June 1945`
+  - Consistory: `24 November 2007` → `20 November 2010`
+  - Office: `Archbishop emeritus of Dakar` → `Prefect emeritus of the Congregation for Divine Worship and the Discipline of the Sacraments`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Francesco Monterisi**
+  - Name: `Oswald Gracias` → `Francesco Monterisi`
+  - Country: `India` → `Italy`
+  - Born: `24 December 1944` → `28 May 1934`
+  - Consistory: `24 November 2007` → `20 November 2010`
+  - Office: `Archbishop of Bombay` → `Archpriest emeritus of the Papal Basilica of Saint Paul Outside the Walls`
+  - PapalConclaveEligible: `True` → `False`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Raymond Leo Burke**
+  - Name: `Francisco Robles Ortega` → `Raymond Leo Burke`
+  - Country: `Mexico` → `United States`
+  - Born: `2 March 1949` → `30 June 1948`
+  - Consistory: `24 November 2007` → `20 November 2010`
+  - Office: `Archbishop of Guadalajara` → `Patron emeritus of the Sovereign Military Order of Malta`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Kurt Koch**
+  - Name: `Daniel DiNardo` → `Kurt Koch`
+  - Country: `United States` → `Switzerland`
+  - Born: `23 May 1949` → `15 March 1950`
+  - Consistory: `24 November 2007` → `20 November 2010`
+  - Office: `Archbishop of Galveston–Houston` → `Prefect of the Dicastery for Promoting Christian Unity`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Mauro Piacenza**
+  - Name: `Odilo Scherer` → `Mauro Piacenza`
+  - Country: `Brazil` → `Italy`
+  - Born: `21 September 1949` → `15 September 1944`
+  - Consistory: `24 November 2007` → `20 November 2010`
+  - Office: `Archbishop of São Paulo` → `Major Penitentiary emeritus`
+  - PapalConclaveEligible: `True` → `False`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Gianfranco Ravasi**
+  - Name: `John Njue` → `Gianfranco Ravasi`
+  - Country: `Kenya` → `Italy`
+  - Born: `1944[lower-alpha 6]` → `18 October 1942`
+  - Consistory: `24 November 2007` → `20 November 2010`
+  - Office: `Archbishop emeritus of Nairobi` → `President emeritus of the Pontifical Council for Culture`
+  - PapalConclaveEligible: `True` → `False`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Paolo Romeo**
+  - Name: `Estanislao Esteban Karlic` → `Paolo Romeo`
+  - Country: `Argentina` → `Italy`
+  - Born: `7 February 1926` → `20 February 1938`
+  - Consistory: `24 November 2007` → `20 November 2010`
+  - Office: `Archbishop emeritus of Paraná` → `Archbishop emeritus of Palermo`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Donald Wuerl**
+  - Name: `Angelo Amato SDB` → `Donald Wuerl`
+  - Country: `Italy` → `United States`
+  - Born: `8 June 1938` → `12 November 1940`
+  - Office: `Prefect emeritus of the Congregation for the Causes of Saints` → `Archbishop emeritus of Washington`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Raymundo Damasceno Assis**
+  - Name: `Robert Sarah` → `Raymundo Damasceno Assis`
+  - Country: `Guinea` → `Brazil`
+  - Born: `15 June 1945` → `15 February 1937`
+  - Office: `Prefect emeritus of the Congregation for Divine Worship and the Discipline of the Sacraments` → `Archbishop emeritus of Aparecida`
+  - PapalConclaveEligible: `True` → `False`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Kazimierz Nycz**
+  - Name: `Francesco Monterisi` → `Kazimierz Nycz`
+  - Country: `Italy` → `Poland`
+  - Born: `28 May 1934` → `1 February 1950`
+  - Office: `Archpriest emeritus of the Papal Basilica of Saint Paul Outside the Walls` → `Archbishop emeritus of Warsaw`
+  - PapalConclaveEligible: `False` → `True`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Malcolm Ranjith**
+  - Name: `Raymond Leo Burke` → `Malcolm Ranjith`
+  - Country: `United States` → `Sri Lanka`
+  - Born: `30 June 1948` → `15 November 1947`
+  - Office: `Patron emeritus of the Sovereign Military Order of Malta` → `Archbishop of Colombo`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Reinhard Marx**
+  - Name: `Kurt Koch` → `Reinhard Marx`
+  - Country: `Switzerland` → `Germany`
+  - Born: `15 March 1950` → `21 September 1953`
+  - Office: `Prefect of the Dicastery for Promoting Christian Unity` → `Archbishop of Munich and Freising and Coordinator of the Council for the Economy`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Walter Brandmüller**
+  - Name: `Mauro Piacenza` → `Walter Brandmüller`
+  - Country: `Italy` → `Germany`
+  - Born: `15 September 1944` → `5 January 1929`
+  - Office: `Major Penitentiary` → `President emeritus of the Pontifical Committee for Historical Sciences`
+  - PapalConclaveEligible: `True` → `False`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Manuel Monteiro de Castro**
+  - Name: `Gianfranco Ravasi` → `Manuel Monteiro de Castro`
+  - Country: `Italy` → `Portugal`
+  - Born: `18 October 1942` → `29 March 1938`
+  - Consistory: `20 November 2010` → `18 February 2012`
+  - Office: `President emeritus of the Pontifical Council for Culture` → `Major Penitentiary emeritus`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Santos Abril y Castelló**
+  - Name: `Paolo Romeo` → `Santos Abril y Castelló`
+  - Country: `Italy` → `Spain`
+  - Born: `20 February 1938` → `21 September 1935`
+  - Consistory: `20 November 2010` → `18 February 2012`
+  - Office: `Archbishop emeritus of Palermo` → `Archpriest emeritus of the Papal Basilica of Saint Mary Major`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Antonio Maria Vegliò**
+  - Name: `Donald Wuerl` → `Antonio Maria Vegliò`
+  - Country: `United States` → `Italy`
+  - Born: `12 November 1940` → `3 February 1938`
+  - Consistory: `20 November 2010` → `18 February 2012`
+  - Office: `Archbishop emeritus of Washington` → `President emeritus of the Pontifical Council for the Pastoral Care of Migrants and Itinerant People`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Giuseppe Bertello**
+  - Name: `Raymundo Damasceno Assis` → `Giuseppe Bertello`
+  - Country: `Brazil` → `Italy`
+  - Born: `15 February 1937` → `1 October 1942`
+  - Consistory: `20 November 2010` → `18 February 2012`
+  - Office: `Archbishop emeritus of Aparecida` → `President emeritus of the Pontifical Commission for Vatican City State`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Francesco Coccopalmerio**
+  - Name: `Kazimierz Nycz` → `Francesco Coccopalmerio`
+  - Country: `Poland` → `Italy`
+  - Born: `1 February 1950` → `6 March 1938`
+  - Consistory: `20 November 2010` → `18 February 2012`
+  - Office: `Archbishop of Warsaw` → `President emeritus of the Pontifical Council for Legislative Texts`
+  - PapalConclaveEligible: `True` → `False`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **João Braz de Aviz**
+  - Name: `Malcolm Ranjith` → `João Braz de Aviz`
+  - Country: `Sri Lanka` → `Brazil`
+  - Born: `15 November 1947` → `24 April 1947`
+  - Consistory: `20 November 2010` → `18 February 2012`
+  - Office: `Archbishop of Colombo` → `Prefect emeritus of the Dicastery for Institutes of Consecrated Life and Societies of Apostolic Life`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Edwin Frederick O'Brien**
+  - Name: `Reinhard Marx` → `Edwin Frederick O'Brien`
+  - Country: `Germany` → `United States`
+  - Born: `21 September 1953` → `8 April 1939`
+  - Consistory: `20 November 2010` → `18 February 2012`
+  - Office: `Archbishop of Munich and Freising and Coordinator of the Council for the Economy` → `Grand Master emeritus of the Order of the Holy Sepulchre`
+  - PapalConclaveEligible: `True` → `False`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Domenico Calcagno**
+  - Name: `Walter Brandmüller` → `Domenico Calcagno`
+  - Country: `Germany` → `Italy`
+  - Born: `5 January 1929` → `3 February 1943`
+  - Consistory: `20 November 2010` → `18 February 2012`
+  - Office: `President emeritus of the Pontifical Committee for Historical Sciences` → `President emeritus of the Administration of the Patrimony of the Apostolic See`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Giuseppe Versaldi**
+  - Name: `Manuel Monteiro de Castro` → `Giuseppe Versaldi`
+  - Country: `Portugal` → `Italy`
+  - Born: `29 March 1938` → `30 July 1943`
+  - Office: `Major Penitentiary emeritus` → `Prefect emeritus of the Congregation for Catholic Education`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **George Alencherry**
+  - Name: `Santos Abril y Castelló` → `George Alencherry`
+  - Country: `Spain` → `India`
+  - Born: `21 September 1935` → `19 April 1945`
+  - Office: `Archpriest emeritus of the Papal Basilica of Saint Mary Major` → `Major Archbishop emeritus of Ernakulam–Angamaly(Syro-Malabar Church)`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Thomas Collins**
+  - Name: `Antonio Maria Vegliò` → `Thomas Collins`
+  - Country: `Italy` → `Canada`
+  - Born: `3 February 1938` → `16 January 1947`
+  - Office: `President emeritus of the Pontifical Council for the Pastoral Care of Migrants and Itinerant People` → `Archbishop emeritus of Toronto`
+  - PapalConclaveEligible: `False` → `True`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Wim Eijk**
+  - Name: `Giuseppe Bertello` → `Wim Eijk`
+  - Country: `Italy` → `Netherlands`
+  - Born: `1 October 1942` → `22 June 1953`
+  - Office: `President emeritus of the Pontifical Commission for Vatican City State` → `Archbishop of Utrecht`
+  - PapalConclaveEligible: `False` → `True`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Giuseppe Betori**
+  - Name: `Francesco Coccopalmerio` → `Giuseppe Betori`
+  - Born: `6 March 1938` → `25 February 1947`
+  - Office: `President emeritus of the Pontifical Council for Legislative Texts` → `Archbishop emeritus of Florence`
+  - PapalConclaveEligible: `False` → `True`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Timothy M. Dolan**
+  - Name: `João Braz de Aviz` → `Timothy M. Dolan`
+  - Country: `Brazil` → `United States`
+  - Born: `24 April 1947` → `6 February 1950`
+  - Office: `Prefect of the Dicastery for Institutes of Consecrated Life and Societies of Apostolic Life` → `Archbishop of New York`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Rainer Woelki**
+  - Name: `Edwin Frederick O'Brien` → `Rainer Woelki`
+  - Country: `United States` → `Germany`
+  - Born: `8 April 1939` → `18 August 1956`
+  - Office: `Grand Master emeritus of the Order of the Holy Sepulchre` → `Archbishop of Cologne`
+  - PapalConclaveEligible: `False` → `True`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **John Tong Hon**
+  - Name: `Domenico Calcagno` → `John Tong Hon`
+  - Country: `Italy` → `China(Hong Kong)[f]`
+  - Born: `3 February 1943` → `31 July 1939`
+  - Office: `President emeritus of the Administration of the Patrimony of the Apostolic See` → `Bishop emeritus of Hong Kong`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **James Michael Harvey**
+  - Name: `Giuseppe Versaldi` → `James Michael Harvey`
+  - Country: `Italy` → `United States`
+  - Born: `30 July 1943` → `20 October 1949`
+  - Consistory: `18 February 2012` → `24 November 2012`
+  - Office: `Prefect emeritus of the Congregation for Catholic Education` → `Archpriest of the Papal Basilica of Saint Paul Outside the Walls`
+  - PapalConclaveEligible: `False` → `True`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Baselios Cleemis**
+  - Name: `George Alencherry` → `Baselios Cleemis`
+  - Born: `19 April 1945` → `15 June 1959`
+  - Consistory: `18 February 2012` → `24 November 2012`
+  - Office: `Major Archbishop of Ernakulam–Angamaly(Syro-Malabar Church)` → `Major Archbishop of Trivandrum(Syro-Malankara Church)`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **John Onaiyekan**
+  - Name: `Thomas Collins` → `John Onaiyekan`
+  - Country: `Canada` → `Nigeria`
+  - Born: `16 January 1947` → `29 January 1944`
+  - Consistory: `18 February 2012` → `24 November 2012`
+  - Office: `Archbishop emeritus of Toronto` → `Archbishop emeritus of Abuja`
+  - PapalConclaveEligible: `True` → `False`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Rubén Salazar Gómez**
+  - Name: `Dominik Duka OP` → `Rubén Salazar Gómez`
+  - Country: `Czech Republic` → `Colombia`
+  - Born: `26 April 1943` → `22 September 1942`
+  - Consistory: `18 February 2012` → `24 November 2012`
+  - Office: `Archbishop emeritus of Prague` → `Archbishop emeritus of Bogotá`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Benedict XVI`
+- **Lorenzo Baldisseri**
+  - Name: `Wim Eijk` → `Lorenzo Baldisseri`
+  - Country: `Netherlands` → `Italy`
+  - Born: `22 June 1953` → `29 September 1940`
+  - Consistory: `18 February 2012` → `22 February 2014`
+  - Office: `Archbishop of Utrecht` → `Secretary-General emeritus of the Synod of Bishops`
+  - PapalConclaveEligible: `True` → `False`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Francis`
+- **Gerhard Ludwig Müller**
+  - Name: `Giuseppe Betori` → `Gerhard Ludwig Müller`
+  - Country: `Italy` → `Germany`
+  - Born: `25 February 1947` → `31 December 1947`
+  - Consistory: `18 February 2012` → `22 February 2014`
+  - Office: `Archbishop of Florence` → `Prefect emeritus of the Congregation for the Doctrine of the Faith`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Francis`
+- **Vincent Nichols**
+  - Name: `Timothy M. Dolan` → `Vincent Nichols`
+  - Country: `United States` → `United Kingdom`
+  - Born: `6 February 1950` → `8 November 1945`
+  - Consistory: `18 February 2012` → `22 February 2014`
+  - Office: `Archbishop of New York` → `Archbishop of Westminster`
+  - PapalConclaveEligible: `True` → `False`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Francis`
+- **Leopoldo Brenes**
+  - Name: `Rainer Woelki` → `Leopoldo Brenes`
+  - Country: `Germany` → `Nicaragua`
+  - Born: `18 August 1956` → `7 March 1949`
+  - Consistory: `18 February 2012` → `22 February 2014`
+  - Office: `Archbishop of Cologne` → `Archbishop of Managua`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Francis`
+- **Gérald Lacroix ISPX**
+  - Name: `John Tong Hon` → `Gérald Lacroix ISPX`
+  - Country: `China(Hong Kong)[lower-alpha 4]` → `Canada`
+  - Born: `31 July 1939` → `27 July 1957`
+  - Consistory: `18 February 2012` → `22 February 2014`
+  - Office: `Bishop emeritus of Hong Kong` → `Archbishop of Quebec`
+  - PapalConclaveEligible: `False` → `True`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Francis`
+- **Jean-Pierre Kutwa**
+  - Name: `Lucian Mureșan` → `Jean-Pierre Kutwa`
+  - Country: `Romania` → `Ivory Coast`
+  - Born: `23 May 1931` → `22 December 1945`
+  - Consistory: `18 February 2012` → `22 February 2014`
+  - Office: `Major Archbishop of Făgăraș and Alba Iulia(Romanian Greek Church)` → `Archbishop emeritus of Abidjan`
+  - PapalConclaveEligible: `False` → `True`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Francis`
+- **Orani João Tempesta OCist**
+  - Name: `Baselios Cleemis` → `Orani João Tempesta OCist`
+  - Country: `India` → `Brazil`
+  - Born: `15 June 1959` → `23 June 1950`
+  - Consistory: `24 November 2012` → `22 February 2014`
+  - Office: `Major Archbishop of Trivandrum(Syro-Malankara Church)` → `Archbishop of São Sebastião do Rio de Janeiro`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Francis`
+- **Gualtiero Bassetti**
+  - Name: `John Onaiyekan` → `Gualtiero Bassetti`
+  - Country: `Nigeria` → `Italy`
+  - Born: `29 January 1944` → `7 April 1942`
+  - Consistory: `24 November 2012` → `22 February 2014`
+  - Office: `Archbishop emeritus of Abuja` → `Archbishop emeritus of Perugia–Città della Pieve`
+  - PapalConclaveEligible: `True` → `False`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Francis`
+- **Mario Aurelio Poli**
+  - Name: `Rubén Salazar Gómez` → `Mario Aurelio Poli`
+  - Country: `Colombia` → `Argentina`
+  - Born: `22 September 1942` → `29 November 1947`
+  - Consistory: `24 November 2012` → `22 February 2014`
+  - Office: `Archbishop emeritus of Bogotá` → `Archbishop emeritus of Buenos Aires`
+  - PapalConclaveEligible: `False` → `True`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Francis`
+- **Andrew Yeom Soo-jung**
+  - Name: `Vincent Nichols` → `Andrew Yeom Soo-jung`
+  - Country: `United Kingdom` → `South Korea`
+  - Born: `8 November 1945` → `5 December 1943`
+  - Office: `Archbishop of Westminster` → `Archbishop emeritus of Seoul`
+  - PapalConclaveEligible: `True` → `False`
+- **Ricardo Ezzati SDB**
+  - Name: `Leopoldo Brenes` → `Ricardo Ezzati SDB`
+  - Country: `Nicaragua` → `Chile[i]`
+  - Born: `7 March 1949` → `7 January 1942`
+  - Office: `Archbishop of Managua` → `Archbishop emeritus of Santiago de Chile`
+  - PapalConclaveEligible: `True` → `False`
+- **Philippe Ouédraogo**
+  - Name: `Gérald Lacroix ISPX` → `Philippe Ouédraogo`
+  - Country: `Canada` → `Burkina Faso`
+  - Born: `27 July 1957` → `31 December 1945[j]`
+  - Office: `Archbishop of Quebec` → `Archbishop emeritus of Ouagadougou`
+- **Orlando Quevedo OMI**
+  - Name: `Jean-Pierre Kutwa` → `Orlando Quevedo OMI`
+  - Country: `Ivory Coast` → `Philippines`
+  - Born: `22 December 1945` → `11 March 1939`
+  - Office: `Archbishop of Abidjan` → `Archbishop emeritus of Cotabato`
+  - PapalConclaveEligible: `True` → `False`
+- **Chibly Langlois**
+  - Name: `Orani João Tempesta OCist` → `Chibly Langlois`
+  - Country: `Brazil` → `Haiti`
+  - Born: `23 June 1950` → `29 November 1958`
+  - Office: `Archbishop of São Sebastião do Rio de Janeiro` → `Bishop of Les Cayes`
+- **Manuel Clemente**
+  - Name: `Gualtiero Bassetti` → `Manuel Clemente`
+  - Country: `Italy` → `Portugal`
+  - Born: `7 April 1942` → `16 July 1948`
+  - Consistory: `22 February 2014` → `14 February 2015`
+  - Office: `Archbishop emeritus of Perugia–Città della Pieve` → `Patriarch emeritus of Lisbon`
+  - PapalConclaveEligible: `False` → `True`
+- **Berhaneyesus Demerew Souraphiel CM**
+  - Name: `Mario Aurelio Poli` → `Berhaneyesus Demerew Souraphiel CM`
+  - Country: `Argentina` → `Ethiopia`
+  - Born: `29 November 1947` → `14 July 1948`
+  - Consistory: `22 February 2014` → `14 February 2015`
+  - Office: `Archbishop emeritus of Buenos Aires` → `Archbishop of Addis Abeba(Ethiopian Church)`
+- **John Dew**
+  - Name: `Andrew Yeom Soo-jung` → `John Dew`
+  - Country: `South Korea` → `New Zealand`
+  - Born: `5 December 1943` → `5 May 1948`
+  - Consistory: `22 February 2014` → `14 February 2015`
+  - Office: `Archbishop emeritus of Seoul` → `Archbishop emeritus of Wellington`
+- **Pierre Nguyễn Văn Nhơn**
+  - Name: `Ricardo Ezzati SDB` → `Pierre Nguyễn Văn Nhơn`
+  - Country: `Chile` → `Vietnam`
+  - Born: `7 January 1942` → `1 April 1938`
+  - Consistory: `22 February 2014` → `14 February 2015`
+  - Office: `Archbishop emeritus of Santiago de Chile` → `Archbishop emeritus of Hanoi`
+- **Alberto Suárez Inda**
+  - Name: `Philippe Ouédraogo` → `Alberto Suárez Inda`
+  - Country: `Burkina Faso` → `Mexico`
+  - Born: `25 January 1945` → `30 January 1939`
+  - Consistory: `22 February 2014` → `14 February 2015`
+  - Office: `Archbishop of Ouagadougou` → `Archbishop emeritus of Morelia`
+  - PapalConclaveEligible: `True` → `False`
+- **Charles Maung Bo SDB**
+  - Name: `Orlando Quevedo OMI` → `Charles Maung Bo SDB`
+  - Country: `Philippines` → `Myanmar`
+  - Born: `11 March 1939` → `29 October 1948`
+  - Consistory: `22 February 2014` → `14 February 2015`
+  - Office: `Archbishop emeritus of Cotabato` → `Archbishop of Yangon`
+  - PapalConclaveEligible: `False` → `True`
+- **Kriengsak Kovitvanit**
+  - Name: `Chibly Langlois` → `Kriengsak Kovitvanit`
+  - Country: `Haiti` → `Thailand`
+  - Born: `29 November 1958` → `27 June 1949`
+  - Consistory: `22 February 2014` → `14 February 2015`
+  - Office: `Bishop of Les Cayes` → `Archbishop emeritus of Bangkok`
+- **Francesco Montenegro**
+  - Name: `Kelvin Edward Felix` → `Francesco Montenegro`
+  - Country: `Saint Lucia` → `Italy`
+  - Born: `15 February 1933` → `22 May 1946`
+  - Consistory: `22 February 2014` → `14 February 2015`
+  - Office: `Archbishop emeritus of Castries` → `Archbishop emeritus of Agrigento`
+  - PapalConclaveEligible: `False` → `True`
+- **Daniel Sturla SDB**
+  - Name: `Manuel Clemente` → `Daniel Sturla SDB`
+  - Country: `Portugal` → `Uruguay`
+  - Born: `16 July 1948` → `4 July 1959`
+  - Office: `Patriarch emeritus of Lisbon` → `Archbishop of Montevideo`
+- **Ricardo Blázquez**
+  - Name: `Berhaneyesus Demerew Souraphiel CM` → `Ricardo Blázquez`
+  - Country: `Ethiopia` → `Spain`
+  - Born: `14 July 1948` → `13 April 1942`
+  - Office: `Archbishop of Addis Abeba(Ethiopian Church)` → `Archbishop emeritus of Valladolid`
+  - PapalConclaveEligible: `True` → `False`
+- **José Luis Lacunza Maestrojuán OAR**
+  - Name: `John Dew` → `José Luis Lacunza Maestrojuán OAR`
+  - Country: `New Zealand` → `Panama[k]`
+  - Born: `5 May 1948` → `24 February 1944`
+  - Office: `Archbishop emeritus of Wellington` → `Bishop emeritus of David`
+  - PapalConclaveEligible: `True` → `False`
+- **Arlindo Gomes Furtado**
+  - Name: `Edoardo Menichelli` → `Arlindo Gomes Furtado`
+  - Country: `Italy` → `Cape Verde`
+  - Born: `14 October 1939` → `15 November 1949`
+  - Office: `Archbishop emeritus of Ancona–Osimo` → `Bishop of Santiago de Cabo Verde`
+  - PapalConclaveEligible: `False` → `True`
+- **Soane Patita Paini Mafi**
+  - Name: `Pierre Nguyễn Văn Nhơn` → `Soane Patita Paini Mafi`
+  - Country: `Vietnam` → `Tonga`
+  - Born: `1 April 1938` → `19 December 1961`
+  - Office: `Archbishop emeritus of Hanoi` → `Bishop of Tonga`
+  - PapalConclaveEligible: `False` → `True`
+- **Luis Héctor Villalba**
+  - Name: `Alberto Suárez Inda` → `Luis Héctor Villalba`
+  - Country: `Mexico` → `Argentina`
+  - Born: `30 January 1939` → `11 October 1934`
+  - Office: `Archbishop emeritus of Morelia` → `Archbishop emeritus of Tucumán`
+- **Júlio Duarte Langa**
+  - Name: `Charles Maung Bo SDB` → `Júlio Duarte Langa`
+  - Country: `Myanmar` → `Mozambique`
+  - Born: `29 October 1948` → `27 October 1927`
+  - Office: `Archbishop of Yangon` → `Bishop emeritus of Xai-Xai`
+  - PapalConclaveEligible: `True` → `False`
+- **Dieudonné Nzapalainga CSSp**
+  - Name: `Kriengsak Kovitvanit` → `Dieudonné Nzapalainga CSSp`
+  - Country: `Thailand` → `Central African Republic`
+  - Born: `27 June 1949` → `14 March 1967`
+  - Consistory: `14 February 2015` → `19 November 2016`
+  - Office: `Archbishop of Bangkok` → `Archbishop of Bangui`
+- **Carlos Osoro Sierra**
+  - Name: `Francesco Montenegro` → `Carlos Osoro Sierra`
+  - Country: `Italy` → `Spain`
+  - Born: `22 May 1946` → `16 May 1945`
+  - Consistory: `14 February 2015` → `19 November 2016`
+  - Office: `Archbishop emeritus of Agrigento` → `Archbishop emeritus of Madrid`
+  - PapalConclaveEligible: `True` → `False`
+- **Sérgio da Rocha**
+  - Name: `Daniel Sturla SDB` → `Sérgio da Rocha`
+  - Country: `Uruguay` → `Brazil`
+  - Born: `4 July 1959` → `21 October 1959`
+  - Consistory: `14 February 2015` → `19 November 2016`
+  - Office: `Archbishop of Montevideo` → `Archbishop of São Salvador da Bahia`
+- **Blase J. Cupich**
+  - Name: `Ricardo Blázquez` → `Blase J. Cupich`
+  - Country: `Spain` → `United States`
+  - Born: `13 April 1942` → `19 March 1949`
+  - Consistory: `14 February 2015` → `19 November 2016`
+  - Office: `Archbishop emeritus of Valladolid` → `Archbishop of Chicago`
+  - PapalConclaveEligible: `False` → `True`
+- **Patrick D'Rozario CSC**
+  - Name: `José Luis Lacunza Maestrojuán OAR` → `Patrick D'Rozario CSC`
+  - Country: `Panama` → `Bangladesh`
+  - Born: `24 February 1944` → `1 October 1943`
+  - Consistory: `14 February 2015` → `19 November 2016`
+  - Office: `Bishop of David` → `Archbishop emeritus of Dhaka`
+  - PapalConclaveEligible: `True` → `False`
+- **Baltazar Enrique Porras Cardozo**
+  - Name: `Arlindo Gomes Furtado` → `Baltazar Enrique Porras Cardozo`
+  - Country: `Cape Verde` → `Venezuela`
+  - Born: `15 November 1949` → `10 October 1944`
+  - Consistory: `14 February 2015` → `19 November 2016`
+  - Office: `Bishop of Santiago de Cabo Verde` → `Archbishop emeritus of Caracas`
+  - PapalConclaveEligible: `True` → `False`
+- **Jozef De Kesel**
+  - Name: `Soane Patita Paini Mafi` → `Jozef De Kesel`
+  - Country: `Tonga` → `Belgium`
+  - Born: `19 December 1961` → `17 June 1947`
+  - Consistory: `14 February 2015` → `19 November 2016`
+  - Office: `Bishop of Tonga` → `Archbishop emeritus of Mechelen–Brussels`
+- **Maurice Piat CSSp**
+  - Name: `Luis Héctor Villalba` → `Maurice Piat CSSp`
+  - Country: `Argentina` → `Mauritius`
+  - Born: `11 October 1934` → `19 July 1941`
+  - Consistory: `14 February 2015` → `19 November 2016`
+  - Office: `Archbishop emeritus of Tucumán` → `Bishop emeritus of Port-Louis`
+- **Carlos Aguiar Retes**
+  - Name: `Júlio Duarte Langa` → `Carlos Aguiar Retes`
+  - Country: `Mozambique` → `Mexico`
+  - Born: `27 October 1927` → `9 January 1950`
+  - Consistory: `14 February 2015` → `19 November 2016`
+  - Office: `Bishop emeritus of Xai-Xai` → `Archbishop of Mexico`
+  - PapalConclaveEligible: `False` → `True`
+- **John Ribat MSC**
+  - Name: `Dieudonné Nzapalainga CSSp` → `John Ribat MSC`
+  - Country: `Central African Republic` → `Papua New Guinea`
+  - Born: `14 March 1967` → `9 February 1957`
+  - Office: `Archbishop of Bangui` → `Archbishop of Port Moresby`
+- **Joseph W. Tobin CSsR**
+  - Name: `Carlos Osoro Sierra` → `Joseph W. Tobin CSsR`
+  - Country: `Spain` → `United States`
+  - Born: `16 May 1945` → `3 May 1952`
+  - Office: `Archbishop emeritus of Madrid` → `Archbishop of Newark`
+- **Jean Zerbo**
+  - Name: `Sérgio da Rocha` → `Jean Zerbo`
+  - Country: `Brazil` → `Mali`
+  - Born: `21 October 1959` → `27 December 1943`
+  - Consistory: `19 November 2016` → `28 June 2017`
+  - Office: `Archbishop of São Salvador da Bahia` → `Archbishop emeritus of Bamako`
+  - PapalConclaveEligible: `True` → `False`
+- **Juan José Omella**
+  - Name: `Blase J. Cupich` → `Juan José Omella`
+  - Country: `United States` → `Spain`
+  - Born: `19 March 1949` → `21 April 1946`
+  - Consistory: `19 November 2016` → `28 June 2017`
+  - Office: `Archbishop of Chicago` → `Archbishop of Barcelona`
+- **Anders Arborelius OCD**
+  - Name: `Patrick D'Rozario CSC` → `Anders Arborelius OCD`
+  - Country: `Bangladesh` → `Sweden`
+  - Born: `1 October 1943` → `24 September 1949`
+  - Consistory: `19 November 2016` → `28 June 2017`
+  - Office: `Archbishop emeritus of Dhaka` → `Bishop of Stockholm`
+  - PapalConclaveEligible: `False` → `True`
+- **Louis-Marie Ling Mangkhanekhoun IVD**
+  - Name: `Baltazar Enrique Porras Cardozo` → `Louis-Marie Ling Mangkhanekhoun IVD`
+  - Country: `Venezuela` → `Laos`
+  - Born: `10 October 1944` → `8 April 1944`
+  - Consistory: `19 November 2016` → `28 June 2017`
+  - Office: `Archbishop of Caracas` → `Apostolic Vicar emeritus of Vientiane`
+  - PapalConclaveEligible: `True` → `False`
+- **Gregorio Rosa Chávez**
+  - Name: `Jozef De Kesel` → `Gregorio Rosa Chávez`
+  - Country: `Belgium` → `El Salvador`
+  - Born: `17 June 1947` → `3 September 1942`
+  - Consistory: `19 November 2016` → `28 June 2017`
+  - Office: `Archbishop emeritus of Mechelen–Brussels` → `Auxiliary Bishop emeritus of San Salvador`
+  - PapalConclaveEligible: `True` → `False`
+- **Angelo De Donatis**
+  - Name: `Maurice Piat CSSp` → `Angelo De Donatis`
+  - Country: `Mauritius` → `Italy`
+  - Born: `19 July 1941` → `4 January 1954`
+  - Consistory: `19 November 2016` → `28 June 2018`
+  - Office: `Bishop emeritus of Port-Louis` → `Major Penitentiary`
+  - PapalConclaveEligible: `False` → `True`
+- **Joseph Coutts**
+  - Name: `Carlos Aguiar Retes` → `Joseph Coutts`
+  - Country: `Mexico` → `Pakistan`
+  - Born: `9 January 1950` → `21 July 1945`
+  - Consistory: `19 November 2016` → `28 June 2018`
+  - Office: `Archbishop of Mexico` → `Archbishop emeritus of Karachi`
+  - PapalConclaveEligible: `True` → `False`
+- **António Marto**
+  - Name: `John Ribat MSC` → `António Marto`
+  - Country: `Papua New Guinea` → `Portugal`
+  - Born: `9 February 1957` → `5 May 1947`
+  - Consistory: `19 November 2016` → `28 June 2018`
+  - Office: `Archbishop of Port Moresby` → `Bishop emeritus of Leiria–Fátima`
+- **Pedro Barreto SJ**
+  - Name: `Joseph W. Tobin CSsR` → `Pedro Barreto SJ`
+  - Country: `United States` → `Peru`
+  - Born: `3 May 1952` → `12 February 1944`
+  - Consistory: `19 November 2016` → `28 June 2018`
+  - Office: `Archbishop of Newark` → `Archbishop emeritus of Huancayo`
+  - PapalConclaveEligible: `True` → `False`
+- **Désiré Tsarahazana**
+  - Name: `Jean Zerbo` → `Désiré Tsarahazana`
+  - Country: `Mali` → `Madagascar`
+  - Born: `27 December 1943` → `13 June 1954`
+  - Consistory: `28 June 2017` → `28 June 2018`
+  - Office: `Archbishop of Bamako` → `Archbishop of Toamasina`
+- **Giuseppe Petrocchi**
+  - Name: `Juan José Omella` → `Giuseppe Petrocchi`
+  - Country: `Spain` → `Italy`
+  - Born: `21 April 1946` → `19 August 1948`
+  - Consistory: `28 June 2017` → `28 June 2018`
+  - Office: `Archbishop of Barcelona` → `Archbishop emeritus of L'Aquila`
+- **Thomas Aquino Manyo Maeda**
+  - Name: `Anders Arborelius OCD` → `Thomas Aquino Manyo Maeda`
+  - Country: `Sweden` → `Japan`
+  - Born: `24 September 1949` → `3 March 1949`
+  - Consistory: `28 June 2017` → `28 June 2018`
+  - Office: `Bishop of Stockholm` → `Archbishop of Osaka–Takamatsu`
+- **Toribio Ticona Porco**
+  - Name: `Louis-Marie Ling Mangkhanekhoun IVD` → `Toribio Ticona Porco`
+  - Country: `Laos` → `Bolivia`
+  - Born: `8 April 1944` → `25 April 1937`
+  - Consistory: `28 June 2017` → `28 June 2018`
+  - Office: `Apostolic Vicar of Vientiane` → `Bishop Prelate emeritus of Corocoro`
+  - PapalConclaveEligible: `True` → `False`
+- **Ignatius Suharyo Hardjoatmodjo**
+  - Name: `Gregorio Rosa Chávez` → `Ignatius Suharyo Hardjoatmodjo`
+  - Country: `El Salvador` → `Indonesia`
+  - Born: `3 September 1942` → `9 July 1950`
+  - Consistory: `28 June 2017` → `5 October 2019`
+  - Office: `Auxiliary Bishop emeritus of San Salvador` → `Archbishop of Jakarta`
+  - PapalConclaveEligible: `False` → `True`
+- **Juan García Rodríguez**
+  - Name: `Angelo De Donatis` → `Juan García Rodríguez`
+  - Country: `Italy` → `Cuba`
+  - Born: `4 January 1954` → `11 July 1948`
+  - Consistory: `28 June 2018` → `5 October 2019`
+  - Office: `Vicar General for Rome and Archpriest of the Papal Basilica of Saint John Lateran` → `Archbishop of San Cristóbal de la Habana`
+- **Fridolin Ambongo Besungu OFMCap**
+  - Name: `Joseph Coutts` → `Fridolin Ambongo Besungu OFMCap`
+  - Country: `Pakistan` → `Democratic Republic of the Congo`
+  - Born: `21 July 1945` → `24 January 1960`
+  - Consistory: `28 June 2018` → `5 October 2019`
+  - Office: `Archbishop emeritus of Karachi` → `Archbishop of Kinshasa`
+- **Jean-Claude Hollerich SJ**
+  - Name: `António Marto` → `Jean-Claude Hollerich SJ`
+  - Country: `Portugal` → `Luxembourg`
+  - Born: `5 May 1947` → `9 August 1958`
+  - Consistory: `28 June 2018` → `5 October 2019`
+  - Office: `Bishop emeritus of Leiria–Fátima` → `Archbishop of Luxembourg`
+- **Álvaro Leonel Ramazzini Imeri**
+  - Name: `Pedro Barreto SJ` → `Álvaro Leonel Ramazzini Imeri`
+  - Country: `Peru` → `Guatemala`
+  - Born: `12 February 1944` → `16 July 1947`
+  - Consistory: `28 June 2018` → `5 October 2019`
+  - Office: `Archbishop of Huancayo` → `Bishop of Huehuetenango`
+- **Matteo Zuppi**
+  - Name: `Désiré Tsarahazana` → `Matteo Zuppi`
+  - Country: `Madagascar` → `Italy`
+  - Born: `13 June 1954` → `11 October 1955`
+  - Consistory: `28 June 2018` → `5 October 2019`
+  - Office: `Archbishop of Toamasina` → `Archbishop of Bologna`
+- **Cristóbal López Romero SDB**
+  - Name: `Giuseppe Petrocchi` → `Cristóbal López Romero SDB`
+  - Country: `Italy` → `Morocco[l]`
+  - Born: `19 August 1948` → `19 May 1952`
+  - Consistory: `28 June 2018` → `5 October 2019`
+  - Office: `Archbishop of L'Aquila` → `Archbishop of Rabat`
+- **Sigitas Tamkevičius SJ**
+  - Name: `Thomas Aquino Manyo Maeda` → `Sigitas Tamkevičius SJ`
+  - Country: `Japan` → `Lithuania`
+  - Born: `3 March 1949` → `7 November 1938`
+  - Consistory: `28 June 2018` → `5 October 2019`
+  - Office: `Archbishop of Osaka–Takamatsu` → `Archbishop emeritus of Kaunas`
+  - PapalConclaveEligible: `True` → `False`
+- **Antoine Kambanda**
+  - Name: `Toribio Ticona Porco` → `Antoine Kambanda`
+  - Country: `Bolivia` → `Rwanda`
+  - Born: `25 April 1937` → `10 November 1958`
+  - Consistory: `28 June 2018` → `28 November 2020`
+  - Office: `Bishop Prelate emeritus of Corocoro` → `Archbishop of Kigali`
+  - PapalConclaveEligible: `False` → `True`
+- **Wilton Daniel Gregory**
+  - Name: `Ignatius Suharyo Hardjoatmodjo` → `Wilton Daniel Gregory`
+  - Country: `Indonesia` → `United States`
+  - Born: `9 July 1950` → `7 December 1947`
+  - Consistory: `5 October 2019` → `28 November 2020`
+  - Office: `Archbishop of Jakarta` → `Archbishop emeritus of Washington`
+- **Jose Advincula OP**
+  - Name: `Juan García Rodríguez` → `Jose Advincula OP`
+  - Country: `Cuba` → `Philippines`
+  - Born: `11 July 1948` → `30 March 1952`
+  - Consistory: `5 October 2019` → `28 November 2020`
+  - Office: `Archbishop of San Cristóbal de la Habana` → `Archbishop of Manila`
+- **Celestino Aós Braco OFMCap**
+  - Name: `Fridolin Ambongo Besungu OFMCap` → `Celestino Aós Braco OFMCap`
+  - Country: `Democratic Republic of the Congo` → `Chile[m]`
+  - Born: `24 January 1960` → `6 April 1945`
+  - Consistory: `5 October 2019` → `28 November 2020`
+  - Office: `Archbishop of Kinshasa` → `Archbishop emeritus of Santiago de Chile`
+  - PapalConclaveEligible: `True` → `False`
+- **Augusto Paolo Lojudice**
+  - Name: `Jean-Claude Hollerich SJ` → `Augusto Paolo Lojudice`
+  - Country: `Luxembourg` → `Italy`
+  - Born: `9 August 1958` → `1 July 1964`
+  - Consistory: `5 October 2019` → `28 November 2020`
+  - Office: `Archbishop of Luxembourg` → `Archbishop of Siena–Colle di Val d'Elsa–Montalcino and Bishop of Montepulciano–Chiusi–Pienza`
+- **Felipe Arizmendi Esquivel**
+  - Name: `Álvaro Leonel Ramazzini Imeri` → `Felipe Arizmendi Esquivel`
+  - Country: `Guatemala` → `Mexico`
+  - Born: `16 July 1947` → `1 May 1940`
+  - Consistory: `5 October 2019` → `28 November 2020`
+  - Office: `Bishop of Huehuetenango` → `Bishop emeritus of San Cristóbal de Las Casas`
+  - PapalConclaveEligible: `True` → `False`
+- **Jean-Marc Aveline**
+  - Name: `Matteo Zuppi` → `Jean-Marc Aveline`
+  - Country: `Italy` → `France`
+  - Born: `11 October 1955` → `26 December 1958`
+  - Consistory: `5 October 2019` → `27 August 2022`
+  - Office: `Archbishop of Bologna` → `Archbishop of Marseille`
+- **Peter Okpaleke**
+  - Name: `Cristóbal López Romero SDB` → `Peter Okpaleke`
+  - Country: `Morocco[lower-alpha 7]` → `Nigeria`
+  - Born: `19 May 1952` → `1 March 1963`
+  - Consistory: `5 October 2019` → `27 August 2022`
+  - Office: `Archbishop of Rabat` → `Bishop of Ekwulobia`
+- **Leonardo Ulrich Steiner OFM**
+  - Name: `Sigitas Tamkevičius SJ` → `Leonardo Ulrich Steiner OFM`
+  - Country: `Lithuania` → `Brazil`
+  - Born: `7 November 1938` → `6 November 1950`
+  - Consistory: `5 October 2019` → `27 August 2022`
+  - Office: `Archbishop emeritus of Kaunas` → `Archbishop of Manaus`
+  - PapalConclaveEligible: `False` → `True`
+- **Filipe Neri Ferrão**
+  - Name: `Eugenio Dal Corso PSDP` → `Filipe Neri Ferrão`
+  - Country: `Angola` → `India`
+  - Born: `16 May 1939` → `20 January 1953`
+  - Consistory: `5 October 2019` → `27 August 2022`
+  - Office: `Bishop emeritus of Benguela` → `Archbishop of Goa and Daman and Patriarch of the East Indies`
+  - PapalConclaveEligible: `False` → `True`
+- **Robert W. McElroy**
+  - Name: `Antoine Kambanda` → `Robert W. McElroy`
+  - Country: `Rwanda` → `United States`
+  - Born: `10 November 1958` → `5 February 1954`
+  - Consistory: `28 November 2020` → `27 August 2022`
+  - Office: `Archbishop of Kigali` → `Archbishop of Washington`
+- **Virgílio do Carmo da Silva SDB**
+  - Name: `Wilton Daniel Gregory` → `Virgílio do Carmo da Silva SDB`
+  - Country: `United States` → `East Timor`
+  - Born: `7 December 1947` → `27 November 1967`
+  - Consistory: `28 November 2020` → `27 August 2022`
+  - Office: `Archbishop of Washington` → `Archbishop of Díli`
+- **Oscar Cantoni**
+  - Name: `Jose Advincula OP` → `Oscar Cantoni`
+  - Country: `Philippines` → `Italy`
+  - Born: `30 March 1952` → `1 September 1950`
+  - Consistory: `28 November 2020` → `27 August 2022`
+  - Office: `Archbishop of Manila` → `Bishop of Como`
+- **Anthony Poola**
+  - Name: `Celestino Aós Braco OFMCap` → `Anthony Poola`
+  - Country: `Chile` → `India`
+  - Born: `6 April 1945` → `15 November 1961`
+  - Consistory: `28 November 2020` → `27 August 2022`
+  - Office: `Archbishop of Santiago de Chile` → `Archbishop of Hyderabad`
+- **Paulo Cezar Costa**
+  - Name: `Augusto Paolo Lojudice` → `Paulo Cezar Costa`
+  - Country: `Italy` → `Brazil`
+  - Born: `1 July 1964` → `20 July 1967`
+  - Consistory: `28 November 2020` → `27 August 2022`
+  - Office: `Archbishop of Siena–Colle di Val d'Elsa–Montalcino and Bishop of Montepulciano–Chiusi–Pienza` → `Archbishop of Brasília`
+- **William Goh**
+  - Name: `Felipe Arizmendi Esquivel` → `William Goh`
+  - Country: `Mexico` → `Singapore`
+  - Born: `1 May 1940` → `25 June 1957`
+  - Consistory: `28 November 2020` → `27 August 2022`
+  - Office: `Bishop emeritus of San Cristóbal de Las Casas` → `Archbishop of Singapore`
+  - PapalConclaveEligible: `False` → `True`
+- **Adalberto Martínez Flores**
+  - Name: `Jean-Marc Aveline` → `Adalberto Martínez Flores`
+  - Country: `France` → `Paraguay`
+  - Born: `26 December 1958` → `8 July 1951`
+  - Office: `Archbishop of Marseille` → `Archbishop of Asunción`
+- **Giorgio Marengo IMC**
+  - Name: `Peter Okpaleke` → `Giorgio Marengo IMC`
+  - Country: `Nigeria` → `Mongolia[n]`
+  - Born: `1 March 1963` → `7 June 1974`
+  - Office: `Bishop of Ekwulobia` → `Apostolic Prefect of Ulaanbaatar`
+- **Jorge Enrique Jiménez Carvajal CJM**
+  - Name: `Leonardo Ulrich Steiner OFM` → `Jorge Enrique Jiménez Carvajal CJM`
+  - Country: `Brazil` → `Colombia`
+  - Born: `6 November 1950` → `29 March 1942`
+  - Office: `Archbishop of Manaus` → `Archbishop emeritus of Cartagena`
+  - PapalConclaveEligible: `True` → `False`
+- **Arrigo Miglio**
+  - Name: `Filipe Neri Ferrão` → `Arrigo Miglio`
+  - Country: `India` → `Italy`
+  - Born: `20 January 1953` → `18 July 1942`
+  - Office: `Archbishop of Goa and Daman and Patriarch of the East Indies` → `Archbishop emeritus of Cagliari`
+  - PapalConclaveEligible: `True` → `False`
+- **Pierbattista Pizzaballa OFM**
+  - Name: `Robert W. McElroy` → `Pierbattista Pizzaballa OFM`
+  - Country: `United States` → `Jerusalem[o]`
+  - Born: `5 February 1954` → `21 April 1965`
+  - Consistory: `27 August 2022` → `30 September 2023`
+  - Office: `Bishop of San Diego` → `Latin Patriarch of Jerusalem`
+- **Stephen Brislin**
+  - Name: `Virgílio do Carmo da Silva SDB` → `Stephen Brislin`
+  - Country: `East Timor` → `South Africa`
+  - Born: `27 November 1967` → `24 September 1956`
+  - Consistory: `27 August 2022` → `30 September 2023`
+  - Office: `Archbishop of Díli` → `Archbishop of Johannesburg`
+- **Ángel Sixto Rossi SJ**
+  - Name: `Oscar Cantoni` → `Ángel Sixto Rossi SJ`
+  - Country: `Italy` → `Argentina`
+  - Born: `1 September 1950` → `11 August 1958`
+  - Consistory: `27 August 2022` → `30 September 2023`
+  - Office: `Bishop of Como` → `Archbishop of Córdoba`
+- **Luis José Rueda Aparicio**
+  - Name: `Anthony Poola` → `Luis José Rueda Aparicio`
+  - Country: `India` → `Colombia`
+  - Born: `15 November 1961` → `3 March 1962`
+  - Consistory: `27 August 2022` → `30 September 2023`
+  - Office: `Archbishop of Hyderabad` → `Archbishop of Bogotá`
+- **Grzegorz Ryś**
+  - Name: `Paulo Cezar Costa` → `Grzegorz Ryś`
+  - Country: `Brazil` → `Poland`
+  - Born: `20 July 1967` → `9 February 1964`
+  - Consistory: `27 August 2022` → `30 September 2023`
+  - Office: `Archbishop of Brasília` → `Archbishop of Łódź`
+- **Stephen Ameyu Martin Mulla**
+  - Name: `William Goh` → `Stephen Ameyu Martin Mulla`
+  - Country: `Singapore` → `South Sudan`
+  - Born: `25 June 1957` → `10 January 1964`
+  - Consistory: `27 August 2022` → `30 September 2023`
+  - Office: `Archbishop of Singapore` → `Archbishop of Juba`
+- **José Cobo Cano**
+  - Name: `Adalberto Martínez Flores` → `José Cobo Cano`
+  - Country: `Paraguay` → `Spain`
+  - Born: `8 July 1951` → `20 September 1965`
+  - Consistory: `27 August 2022` → `30 September 2023`
+  - Office: `Archbishop of Asunción` → `Archbishop of Madrid`
+- **Protase Rugambwa**
+  - Name: `Giorgio Marengo IMC` → `Protase Rugambwa`
+  - Country: `Mongolia[lower-alpha 8]` → `Tanzania`
+  - Born: `7 June 1974` → `31 May 1960`
+  - Consistory: `27 August 2022` → `30 September 2023`
+  - Office: `Apostolic Prefect of Ulaanbaatar` → `Archbishop of Tabora`
+- **Sebastian Francis**
+  - Name: `Jorge Enrique Jiménez Carvajal CJM` → `Sebastian Francis`
+  - Country: `Colombia` → `Malaysia`
+  - Born: `29 March 1942` → `11 November 1951`
+  - Consistory: `27 August 2022` → `30 September 2023`
+  - Office: `Archbishop emeritus of Cartagena` → `Bishop of Penang`
+  - PapalConclaveEligible: `False` → `True`
+- **Stephen Chow Sau-yan SJ**
+  - Name: `Arrigo Miglio` → `Stephen Chow Sau-yan SJ`
+  - Country: `Italy` → `China(Hong Kong)[f]`
+  - Born: `18 July 1942` → `7 August 1959`
+  - Consistory: `27 August 2022` → `30 September 2023`
+  - Office: `Archbishop emeritus of Cagliari` → `Bishop of Hong Kong`
+  - PapalConclaveEligible: `False` → `True`
+- **François-Xavier Bustillo OFMConv**
+  - Name: `Pierbattista Pizzaballa OFM` → `François-Xavier Bustillo OFMConv`
+  - Country: `Jerusalem[lower-alpha 9]` → `France[p]`
+  - Born: `21 April 1965` → `23 November 1968`
+  - Office: `Latin Patriarch of Jerusalem` → `Bishop of Ajaccio`
+- **Américo Aguiar**
+  - Name: `Stephen Brislin` → `Américo Aguiar`
+  - Country: `South Africa` → `Portugal`
+  - Born: `24 September 1956` → `12 December 1973`
+  - Office: `Archbishop of Cape Town` → `Bishop of Setúbal`
+- **Diego Rafael Padrón Sánchez**
+  - Name: `Ángel Sixto Rossi SJ` → `Diego Rafael Padrón Sánchez`
+  - Country: `Argentina` → `Venezuela`
+  - Born: `11 August 1958` → `17 May 1939`
+  - Office: `Archbishop of Córdoba` → `Archbishop emeritus of Cumaná`
+  - PapalConclaveEligible: `True` → `False`
+- **Carlos Castillo Mattasoglio**
+  - Name: `Luis José Rueda Aparicio` → `Carlos Castillo Mattasoglio`
+  - Country: `Colombia` → `Peru`
+  - Born: `3 March 1962` → `28 February 1950`
+  - Consistory: `30 September 2023` → `7 December 2024`
+  - Office: `Archbishop of Bogotá` → `Archbishop of Lima`
+- **Vicente Bokalic Iglic CM**
+  - Name: `Grzegorz Ryś` → `Vicente Bokalic Iglic CM`
+  - Country: `Poland` → `Argentina`
+  - Born: `9 February 1964` → `11 June 1952`
+  - Consistory: `30 September 2023` → `7 December 2024`
+  - Office: `Archbishop of Łódź` → `Archbishop of Santiago del Estero`
+- **Luis Cabrera Herrera OFM**
+  - Name: `Stephen Ameyu Martin Mulla` → `Luis Cabrera Herrera OFM`
+  - Country: `South Sudan` → `Ecuador`
+  - Born: `10 January 1964` → `11 October 1955`
+  - Consistory: `30 September 2023` → `7 December 2024`
+  - Office: `Archbishop of Juba` → `Archbishop of Guayaquil`
+- **Fernando Chomalí Garib**
+  - Name: `José Cobo Cano` → `Fernando Chomalí Garib`
+  - Country: `Spain` → `Chile`
+  - Born: `20 September 1965` → `10 March 1957`
+  - Consistory: `30 September 2023` → `7 December 2024`
+  - Office: `Archbishop of Madrid` → `Archbishop of Santiago de Chile`
+- **Tarcisio Isao Kikuchi SVD**
+  - Name: `Protase Rugambwa` → `Tarcisio Isao Kikuchi SVD`
+  - Country: `Tanzania` → `Japan`
+  - Born: `31 May 1960` → `1 November 1958`
+  - Consistory: `30 September 2023` → `7 December 2024`
+  - Office: `Archbishop Coadjutor of Tabora` → `Archbishop of Tokyo`
+- **Pablo Virgilio David**
+  - Name: `Sebastian Francis` → `Pablo Virgilio David`
+  - Country: `Malaysia` → `Philippines`
+  - Born: `11 November 1951` → `2 March 1959`
+  - Consistory: `30 September 2023` → `7 December 2024`
+  - Office: `Bishop of Penang` → `Bishop of Kalookan`
+- **Ladislav Nemet SVD**
+  - Name: `Stephen Chow Sau-yan SJ` → `Ladislav Nemet SVD`
+  - Country: `China(Hong Kong)[lower-alpha 4]` → `Serbia[q]`
+  - Born: `7 August 1959` → `7 September 1956`
+  - Consistory: `30 September 2023` → `7 December 2024`
+  - Office: `Bishop of Hong Kong` → `Archbishop of Belgrade`
+- **Jaime Spengler OFM**
+  - Name: `François-Xavier Bustillo OFMConv` → `Jaime Spengler OFM`
+  - Country: `France[lower-alpha 10]` → `Brazil`
+  - Born: `23 November 1968` → `6 September 1960`
+  - Consistory: `30 September 2023` → `7 December 2024`
+  - Office: `Bishop of Ajaccio` → `Archbishop of Porto Alegre`
+- **Ignace Bessi Dogbo**
+  - Name: `Américo Aguiar` → `Ignace Bessi Dogbo`
+  - Country: `Portugal` → `Ivory Coast`
+  - Born: `12 December 1973` → `17 August 1961`
+  - Consistory: `30 September 2023` → `7 December 2024`
+  - Office: `Bishop-elect of Setúbal` → `Archbishop of Abidjan`
+- **Jean-Paul Vesco OP**
+  - Name: `Diego Rafael Padrón Sánchez` → `Jean-Paul Vesco OP`
+  - Country: `Venezuela` → `Algeria[r]`
+  - Born: `17 May 1939` → `10 March 1962`
+  - Consistory: `30 September 2023` → `7 December 2024`
+  - Office: `Archbishop emeritus of Cumaná` → `Archbishop of Algiers`
+  - PapalConclaveEligible: `False` → `True`
+- **Dominique Mathieu OFMConv**
+  - Name: `Renato Martino` → `Dominique Mathieu OFMConv`
+  - Country: `Italy` → `Iran[s]`
+  - Born: `23 November 1932` → `13 June 1963`
+  - Order: `CD` → `CP`
+  - Consistory: `21 October 2003` → `7 December 2024`
+  - Office: `President emeritus of the Pontifical Councils for Justice and Peace and for the Pastoral Care of Migrants and Itinerant People` → `Archbishop of Tehran–Isfahan`
+  - PapalConclaveEligible: `False` → `True`
+  - CreatedCardinalBy: `Pope John Paul II` → `Pope Francis`
+- **Roberto Repole**
+  - Name: `James Michael Harvey` → `Roberto Repole`
+  - Country: `United States` → `Italy`
+  - Born: `20 October 1949` → `29 January 1967`
+  - Order: `CD` → `CP`
+  - Consistory: `24 November 2012` → `7 December 2024`
+  - Office: `Archpriest of the Papal Basilica of Saint Paul Outside the Walls` → `Archbishop of Turin and Bishop of Susa`
+  - CreatedCardinalBy: `Pope Benedict XVI` → `Pope Francis`
+- **Baldassare Reina**
+  - Name: `Lorenzo Baldisseri` → `Baldassare Reina`
+  - Born: `29 September 1940` → `26 November 1970`
+  - Order: `CD` → `CP`
+  - Consistory: `22 February 2014` → `7 December 2024`
+  - Office: `Secretary-General emeritus of the Synod of Bishops` → `Vicar General for Rome and Archpriest of the Papal Basilica of Saint John Lateran`
+  - PapalConclaveEligible: `False` → `True`
+- **Frank Leo**
+  - Name: `Gerhard Ludwig Müller` → `Frank Leo`
+  - Country: `Germany` → `Canada`
+  - Born: `31 December 1947` → `30 June 1971`
+  - Order: `CD` → `CP`
+  - Consistory: `22 February 2014` → `7 December 2024`
+  - Office: `Prefect emeritus of the Congregation for the Doctrine of the Faith` → `Archbishop of Toronto`
+- **Mykola Bychok CSsR**
+  - Name: `Dominique Mamberti` → `Mykola Bychok CSsR`
+  - Country: `France` → `Australia[t]`
+  - Born: `7 March 1952` → `13 February 1980`
+  - Order: `CD` → `CP`
+  - Consistory: `14 February 2015` → `7 December 2024`
+  - Office: `Prefect of the Supreme Tribunal of the Apostolic Signatura` → `Eparch of Saints Peter and Paul of Melbourne(Ukrainian Greek Church)`
+- **Domenico Battaglia**
+  - Name: `Mario Zenari` → `Domenico Battaglia`
+  - Born: `5 January 1946` → `20 January 1963`
+  - Order: `CD` → `CP`
+  - Consistory: `19 November 2016` → `7 December 2024`
+  - Office: `Apostolic Nuncio to Syria` → `Archbishop of Naples`
+- **Dominique Mamberti**
+  - Name: `Kevin Farrell` → `Dominique Mamberti`
+  - Country: `United States` → `France`
+  - Born: `2 September 1947` → `7 March 1952`
+  - Consistory: `19 November 2016` → `14 February 2015`
+  - Office: `Prefect of the Dicastery for the Laity, Family and Life and Camerlengo of the Holy Roman Church` → `Prefect of the Supreme Tribunal of the Apostolic Signatura`
+- **Mario Zenari**
+  - Name: `Ernest Simoni` → `Mario Zenari`
+  - Country: `Albania` → `Italy`
+  - Born: `18 October 1928` → `5 January 1946`
+  - Office: `Priest of the Archdiocese of Shkodër–Pult` → `Apostolic Nuncio to Syria`
+  - PapalConclaveEligible: `False` → `True`
+- **Kevin Farrell**
+  - Name: `Luis Ladaria Ferrer SJ` → `Kevin Farrell`
+  - Country: `Spain` → `United States[u]`
+  - Born: `19 April 1944` → `2 September 1947`
+  - Consistory: `28 June 2018` → `19 November 2016`
+  - Office: `Prefect emeritus of the Dicastery for the Doctrine of the Faith` → `Prefect of the Dicastery for the Laity, Family and Life`
+- **Ernest Simoni**
+  - Name: `Giovanni Angelo Becciu[lower-alpha 12]` → `Ernest Simoni`
+  - Country: `Italy` → `Albania`
+  - Born: `2 June 1948` → `18 October 1928`
+  - Consistory: `28 June 2018` → `19 November 2016`
+  - Office: `Prefect emeritus of the Congregation for the Causes of Saints` → `Priest of the Archdiocese of Shkodër–Pult`
+- **Luis Ladaria Ferrer SJ**
+  - Name: `Konrad Krajewski` → `Luis Ladaria Ferrer SJ`
+  - Country: `Poland` → `Spain`
+  - Born: `25 November 1963` → `19 April 1944`
+  - Office: `Almoner of His Holiness` → `Prefect emeritus of the Dicastery for the Doctrine of the Faith`
+  - PapalConclaveEligible: `True` → `False`
+- **Giovanni Angelo Becciu[w]**
+  - Name: `Aquilino Bocos Merino CMF` → `Giovanni Angelo Becciu[w]`
+  - Country: `Spain` → `Italy`
+  - Born: `17 May 1938` → `2 June 1948`
+  - Office: `Superior General emeritus of the Missionary Sons of the Immaculate Heart of Mary` → `Prefect emeritus of the Congregation for the Causes of Saints`
+- **Konrad Krajewski**
+  - Name: `Miguel Ángel Ayuso Guixot MCCJ` → `Konrad Krajewski`
+  - Country: `Spain` → `Poland`
+  - Born: `17 June 1952` → `25 November 1963`
+  - Consistory: `5 October 2019` → `28 June 2018`
+  - Office: `Prefect of the Dicastery for Interreligious Dialogue` → `Almoner of His Holiness`
+- **Aquilino Bocos Merino CMF**
+  - Name: `José Tolentino de Mendonça` → `Aquilino Bocos Merino CMF`
+  - Country: `Portugal` → `Spain`
+  - Born: `15 December 1965` → `17 May 1938`
+  - Consistory: `5 October 2019` → `28 June 2018`
+  - Office: `Prefect of the Dicastery for Culture and Education` → `Superior General emeritus of the Missionary Sons of the Immaculate Heart of Mary`
+  - PapalConclaveEligible: `True` → `False`
+- **José Tolentino de Mendonça**
+  - Name: `Michael Czerny SJ` → `José Tolentino de Mendonça`
+  - Country: `Canada` → `Portugal`
+  - Born: `18 July 1946` → `15 December 1965`
+  - Office: `Prefect of the Dicastery for Promoting Integral Human Development` → `Prefect of the Dicastery for Culture and Education`
+- **Michael Czerny SJ**
+  - Name: `Michael Fitzgerald MAfr` → `Michael Czerny SJ`
+  - Country: `United Kingdom` → `Canada[x]`
+  - Born: `17 August 1937` → `18 July 1946`
+  - Office: `Apostolic Nuncio emeritus to Egypt` → `Prefect of the Dicastery for Promoting Integral Human Development`
+  - PapalConclaveEligible: `False` → `True`
+- **Michael Fitzgerald MAfr**
+  - Name: `Mario Grech` → `Michael Fitzgerald MAfr`
+  - Country: `Malta` → `United Kingdom`
+  - Born: `20 February 1957` → `17 August 1937`
+  - Consistory: `28 November 2020` → `5 October 2019`
+  - Office: `Secretary-General of the Synod of Bishops` → `Apostolic Nuncio emeritus to Egypt`
+  - PapalConclaveEligible: `True` → `False`
+- **Mario Grech**
+  - Name: `Marcello Semeraro` → `Mario Grech`
+  - Country: `Italy` → `Malta`
+  - Born: `22 December 1947` → `20 February 1957`
+  - Office: `Prefect of the Dicastery for the Causes of Saints` → `Secretary-General of the Synod of Bishops`
+- **Marcello Semeraro**
+  - Name: `Mauro Gambetti OFMConv` → `Marcello Semeraro`
+  - Born: `27 October 1965` → `22 December 1947`
+  - Office: `Vicar General for Vatican City, Archpriest of the Papal Basilica of Saint Peter and President of the Fabric of Saint Peter` → `Prefect of the Dicastery for the Causes of Saints`
+- **Mauro Gambetti OFMConv**
+  - Name: `Silvano Maria Tomasi CS` → `Mauro Gambetti OFMConv`
+  - Born: `12 October 1940` → `27 October 1965`
+  - Office: `Special Delegate to the Sovereign Military Order of Malta` → `Vicar General for Vatican City, Archpriest of the Papal Basilica of Saint Peter and President of the Fabric of Saint Peter`
+  - PapalConclaveEligible: `False` → `True`
+- **Silvano Maria Tomasi CS**
+  - Name: `Raniero Cantalamessa OFMCap` → `Silvano Maria Tomasi CS`
+  - Born: `22 July 1934` → `12 October 1940`
+  - Office: `Preacher of the Papal Household` → `Special Delegate to the Sovereign Military Order of Malta`
+- **Raniero Cantalamessa OFMCap**
+  - Name: `Enrico Feroci` → `Raniero Cantalamessa OFMCap`
+  - Born: `27 August 1940` → `22 July 1934`
+  - Office: `Pastor of the Shrine of Our Lady of Divine Love in Castel di Leva, Rome` → `Preacher emeritus of the Papal Household`
+- **Enrico Feroci**
+  - Name: `Arthur Roche` → `Enrico Feroci`
+  - Country: `United Kingdom` → `Italy`
+  - Born: `6 March 1950` → `27 August 1940`
+  - Consistory: `27 August 2022` → `28 November 2020`
+  - Office: `Prefect of the Dicastery for Divine Worship and the Discipline of the Sacraments` → `Pastor of the Shrine of Our Lady of Divine Love in Castel di Leva, Rome`
+  - PapalConclaveEligible: `True` → `False`
+- **Arthur Roche**
+  - Name: `Lazarus You Heung-sik` → `Arthur Roche`
+  - Country: `South Korea` → `United Kingdom`
+  - Born: `17 November 1951` → `6 March 1950`
+  - Office: `Prefect of the Dicastery for the Clergy` → `Prefect of the Dicastery for Divine Worship and the Discipline of the Sacraments`
+- **Lazarus You Heung-sik**
+  - Name: `Fernando Vérgez Alzaga LC` → `Lazarus You Heung-sik`
+  - Country: `Spain` → `South Korea`
+  - Born: `1 March 1945` → `17 November 1951`
+  - Office: `President of the Pontifical Commission for Vatican City State` → `Prefect of the Dicastery for the Clergy`
+- **Fernando Vérgez Alzaga LC**
+  - Name: `Gianfranco Ghirlanda SJ` → `Fernando Vérgez Alzaga LC`
+  - Country: `Italy` → `Spain`
+  - Born: `5 July 1942` → `1 March 1945`
+  - Office: `Patron of the Sovereign Military Order of Malta` → `President emeritus of the Pontifical Commission for Vatican City State`
+- **Gianfranco Ghirlanda SJ**
+  - Name: `Fortunato Frezza` → `Gianfranco Ghirlanda SJ`
+  - Born: `6 February 1942` → `5 July 1942`
+  - Office: `Canon of the Chapter of the Papal Basilica of Saint Peter` → `Patron of the Sovereign Military Order of Malta`
+- **Fortunato Frezza**
+  - Name: `Robert Francis Prevost OSA` → `Fortunato Frezza`
+  - Country: `United States` → `Italy`
+  - Born: `14 September 1955` → `6 February 1942`
+  - Consistory: `30 September 2023` → `27 August 2022`
+  - Office: `Prefect of the Dicastery for Bishops` → `Canon of the Chapter of the Papal Basilica of Saint Peter`
+  - PapalConclaveEligible: `True` → `False`
+- **Claudio Gugerotti**
+- **Víctor Manuel Fernández**
+- **Emil Paul Tscherrig**
+  - Office: `Apostolic Nuncio to Italy and San Marino` → `Apostolic Nuncio emeritus to Italy and San Marino`
+- **Christophe Pierre**
+- **Ángel Fernández Artime SDB**
+  - Office: `Rector Major of the Salesians` → `Pro-Prefect of the Dicastery for Institutes of Consecrated Life and Societies of Apostolic Life`
+- **Agostino Marchetto**
+- **Angelo Acerbi**
+  - Name: `Luis Pascual Dri OFMCap` → `Angelo Acerbi`
+  - Country: `Argentina` → `Italy`
+  - Born: `17 April 1927` → `23 September 1925`
+  - Consistory: `30 September 2023` → `7 December 2024`
+  - Office: `Confessor at the Shrine of Our Lady of Pompei ` → `Apostolic Nuncio emeritus`
 ## 2025-11-17 - Initial Setup
 
 - Initial cardinal data tracking system established
