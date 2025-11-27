@@ -2,6 +2,11 @@
 
 This file tracks changes to the Catholic Cardinals data over time.
 
+## Changes detected on 2025-11-27
+
+### Modified Cardinals (1)
+- **Grzegorz Ryś**
+  - Office: `Archbishop of Łódź` → `Archbishop of Kraków`
 ## Changes detected on 2025-11-17
 
 ### New Cardinals (4)
