@@ -2,6 +2,11 @@
 
 This file tracks changes to the Catholic Cardinals data over time.
 
+## Changes detected on 2025-12-19
+
+### Modified Cardinals (1)
+- **Timothy M. Dolan**
+  - Office: `Archbishop of New York` → `Archbishop emeritus of New York`
 ## Changes detected on 2025-11-27
 
 ### Modified Cardinals (1)

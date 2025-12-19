@@ -257,7 +257,7 @@ Total: **245 cardinals**
 | 185 | Stephen Brislin | South Africa | 24 September 1956 | Archbishop of Johannesburg |
 | 186 | Ángel Sixto Rossi SJ | Argentina | 11 August 1958 | Archbishop of Córdoba |
 | 187 | Luis José Rueda Aparicio | Colombia | 3 March 1962 | Archbishop of Bogotá |
-| 188 | Grzegorz Ryś | Poland | 9 February 1964 | Archbishop of Łódź |
+| 188 | Grzegorz Ryś | Poland | 9 February 1964 | Archbishop of Kraków |
 | 189 | Stephen Ameyu Martin Mulla | South Sudan | 10 January 1964 | Archbishop of Juba |
 | 190 | José Cobo Cano | Spain | 20 September 1965 | Archbishop of Madrid |
 | 191 | Protase Rugambwa | Tanzania | 31 May 1960 | Archbishop of Tabora |
