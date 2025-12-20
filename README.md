@@ -165,7 +165,7 @@ Total: **245 cardinals**
 | 93 | Thomas Collins | Canada | 16 January 1947 | Archbishop emeritus of Toronto |
 | 94 | Wim Eijk | Netherlands | 22 June 1953 | Archbishop of Utrecht |
 | 95 | Giuseppe Betori | Italy | 25 February 1947 | Archbishop emeritus of Florence |
-| 96 | Timothy M. Dolan | United States | 6 February 1950 | Archbishop of New York |
+| 96 | Timothy M. Dolan | United States | 6 February 1950 | Archbishop emeritus of New York |
 | 97 | Rainer Woelki | Germany | 18 August 1956 | Archbishop of Cologne |
 | 98 | John Tong Hon* | China(Hong Kong)[f] | 31 July 1939 | Bishop emeritus of Hong Kong |
 | 99 | James Michael Harvey | United States | 20 October 1949 | Archpriest of the Papal Basilica of Saint Paul Outside the Walls |
