@@ -174,7 +174,7 @@ Total: **245 cardinals**
 | 102 | Rubén Salazar Gómez* | Colombia | 22 September 1942 | Archbishop emeritus of Bogotá |
 | 103 | Lorenzo Baldisseri* | Italy | 29 September 1940 | Secretary-General emeritus of the Synod of Bishops |
 | 104 | Gerhard Ludwig Müller | Germany | 31 December 1947 | Prefect emeritus of the Congregation for the Doctrine of the Faith |
-| 105 | Vincent Nichols* | United Kingdom | 8 November 1945 | Archbishop of Westminster |
+| 105 | Vincent Nichols* | United Kingdom | 8 November 1945 | Archbishop emeritus of Westminster |
 | 106 | Leopoldo Brenes | Nicaragua | 7 March 1949 | Archbishop of Managua |
 | 107 | Gérald Lacroix ISPX | Canada | 27 July 1957 | Archbishop of Quebec |
 | 108 | Jean-Pierre Kutwa | Ivory Coast | 22 December 1945 | Archbishop emeritus of Abidjan |
