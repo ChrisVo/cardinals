@@ -2,6 +2,11 @@
 
 This file tracks changes to the Catholic Cardinals data over time.
 
+## Changes detected on 2025-12-31
+
+### Modified Cardinals (1)
+- **Philippe Ouédraogo**
+  - PapalConclaveEligible: `True` → `False`
 ## Changes detected on 2025-12-22
 
 ### Modified Cardinals (1)

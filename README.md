@@ -65,8 +65,8 @@ An example of an JSON object:
 ## Complete List of Cardinals
 Total: **245 cardinals**
 
-- **Eligible to vote in Papal Conclave**: 126
-- **Ineligible to vote** (over 80 years old): 119
+- **Eligible to vote in Papal Conclave**: 125
+- **Ineligible to vote** (over 80 years old): 120
 
 | Rank | Name | Country | Born | Office |
 |------|------|---------|------|--------|
@@ -177,7 +177,7 @@ Total: **245 cardinals**
 | 105 | Vincent Nichols* | United Kingdom | 8 November 1945 | Archbishop emeritus of Westminster |
 | 106 | Leopoldo Brenes | Nicaragua | 7 March 1949 | Archbishop of Managua |
 | 107 | Gérald Lacroix ISPX | Canada | 27 July 1957 | Archbishop of Quebec |
-| 108 | Jean-Pierre Kutwa | Ivory Coast | 22 December 1945 | Archbishop emeritus of Abidjan |
+| 108 | Jean-Pierre Kutwa* | Ivory Coast | 22 December 1945 | Archbishop emeritus of Abidjan |
 | 109 | Orani João Tempesta OCist | Brazil | 23 June 1950 | Archbishop of São Sebastião do Rio de Janeiro |
 | 110 | Gualtiero Bassetti* | Italy | 7 April 1942 | Archbishop emeritus of Perugia–Città della Pieve |
 | 111 | Mario Aurelio Poli | Argentina | 29 November 1947 | Archbishop emeritus of Buenos Aires |
