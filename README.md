@@ -65,8 +65,8 @@ An example of an JSON object:
 ## Complete List of Cardinals
 Total: **245 cardinals**
 
-- **Eligible to vote in Papal Conclave**: 125
-- **Ineligible to vote** (over 80 years old): 120
+- **Eligible to vote in Papal Conclave**: 124
+- **Ineligible to vote** (over 80 years old): 121
 
 | Rank | Name | Country | Born | Office |
 |------|------|---------|------|--------|
@@ -183,7 +183,7 @@ Total: **245 cardinals**
 | 111 | Mario Aurelio Poli | Argentina | 29 November 1947 | Archbishop emeritus of Buenos Aires |
 | 112 | Andrew Yeom Soo-jung* | South Korea | 5 December 1943 | Archbishop emeritus of Seoul |
 | 113 | Ricardo Ezzati SDB* | Chile[i] | 7 January 1942 | Archbishop emeritus of Santiago de Chile |
-| 114 | Philippe Ouédraogo | Burkina Faso | 31 December 1945[j] | Archbishop emeritus of Ouagadougou |
+| 114 | Philippe Ouédraogo* | Burkina Faso | 31 December 1945[j] | Archbishop emeritus of Ouagadougou |
 | 115 | Orlando Quevedo OMI* | Philippines | 11 March 1939 | Archbishop emeritus of Cotabato |
 | 116 | Chibly Langlois | Haiti | 29 November 1958 | Bishop of Les Cayes |
 | 117 | Manuel Clemente | Portugal | 16 July 1948 | Patriarch emeritus of Lisbon |
