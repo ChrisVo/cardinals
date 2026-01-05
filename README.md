@@ -65,8 +65,8 @@ An example of an JSON object:
 ## Complete List of Cardinals
 Total: **245 cardinals**
 
-- **Eligible to vote in Papal Conclave**: 124
-- **Ineligible to vote** (over 80 years old): 121
+- **Eligible to vote in Papal Conclave**: 123
+- **Ineligible to vote** (over 80 years old): 122
 
 | Rank | Name | Country | Born | Office |
 |------|------|---------|------|--------|
@@ -138,7 +138,7 @@ Total: **245 cardinals**
 | 66 | Francisco Robles Ortega | Mexico | 2 March 1949 | Archbishop of Guadalajara |
 | 67 | Daniel DiNardo | United States | 23 May 1949 | Archbishop emeritus of Galveston–Houston |
 | 68 | Odilo Scherer | Brazil | 21 September 1949 | Archbishop of São Paulo |
-| 69 | John Njue | Kenya | 1 January 1946[h] | Archbishop emeritus of Nairobi |
+| 69 | John Njue* | Kenya | 1 January 1946[h] | Archbishop emeritus of Nairobi |
 | 70 | Robert Sarah* | Guinea | 15 June 1945 | Prefect emeritus of the Congregation for Divine Worship and the Discipline of th |
 | 71 | Francesco Monterisi* | Italy | 28 May 1934 | Archpriest emeritus of the Papal Basilica of Saint Paul Outside the Walls |
 | 72 | Raymond Leo Burke | United States | 30 June 1948 | Patron emeritus of the Sovereign Military Order of Malta |
