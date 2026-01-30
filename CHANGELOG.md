@@ -2,6 +2,11 @@
 
 This file tracks changes to the Catholic Cardinals data over time.
 
+## Changes detected on 2026-01-30
+
+### Modified Cardinals (1)
+- **Christophe Pierre**
+  - PapalConclaveEligible: `True` → `False`
 ## Changes detected on 2026-01-05
 
 ### Modified Cardinals (1)

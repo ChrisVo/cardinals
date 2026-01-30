@@ -65,8 +65,8 @@ An example of an JSON object:
 ## Complete List of Cardinals
 Total: **245 cardinals**
 
-- **Eligible to vote in Papal Conclave**: 123
-- **Ineligible to vote** (over 80 years old): 122
+- **Eligible to vote in Papal Conclave**: 122
+- **Ineligible to vote** (over 80 years old): 123
 
 | Rank | Name | Country | Born | Office |
 |------|------|---------|------|--------|
@@ -283,7 +283,7 @@ Total: **245 cardinals**
 | 211 | Mykola Bychok CSsR | Australia[t] | 13 February 1980 | Eparch of Saints Peter and Paul of Melbourne(Ukrainian Greek Church) |
 | 212 | Domenico Battaglia | Italy | 20 January 1963 | Archbishop of Naples |
 | 213 | Dominique Mamberti | France | 7 March 1952 | Prefect of the Supreme Tribunal of the Apostolic Signatura |
-| 214 | Mario Zenari | Italy | 5 January 1946 | Apostolic Nuncio to Syria |
+| 214 | Mario Zenari* | Italy | 5 January 1946 | Apostolic Nuncio to Syria |
 | 215 | Kevin Farrell | United States[u] | 2 September 1947 | Prefect of the Dicastery for the Laity, Family and Life |
 | 216 | Ernest Simoni* | Albania | 18 October 1928 | Priest of the Archdiocese of Shkodër–Pult |
 | 217 | Luis Ladaria Ferrer SJ* | Spain | 19 April 1944 | Prefect emeritus of the Dicastery for the Doctrine of the Faith |
